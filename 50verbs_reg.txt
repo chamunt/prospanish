@@ -1,0 +1,2288 @@
+
+(to arrive - llegar) He arrives = llega
+(to arrive - llegar) I arrive = llego
+(to arrive - llegar) They arrive = llegan
+(to arrive - llegar) We arrive = llegamos
+(to arrive - llegar) You all arrive = llegáis
+(to arrive - llegar) You arrive = llegas
+(to ask - preguntar) He asks = pregunta
+(to ask - preguntar) I ask = pregunto
+(to ask - preguntar) They ask = preguntan
+(to ask - preguntar) We ask = preguntamos
+(to ask - preguntar) You all ask = preguntáis
+(to ask - preguntar) You ask = preguntas
+(to buy - comprar) He buys = compra
+(to buy - comprar) I buy = compro
+(to buy - comprar) They buy = compran
+(to buy - comprar) We buy = compramos
+(to buy - comprar) You all buy = compráis
+(to buy - comprar) You buy = compras
+(to call - llamar) He calls = llama
+(to call - llamar) I call = llamo
+(to call - llamar) They call = llaman
+(to call - llamar) We call = llamamos
+(to call - llamar) You all call = llamáis
+(to call - llamar) You call = llamas
+(to clean - limpiar) He cleans = limpia
+(to clean - limpiar) I clean = limpio
+(to clean - limpiar) They clean = limpian
+(to clean - limpiar) We clean = limpiamos
+(to clean - limpiar) You all clean = limpiáis
+(to clean - limpiar) You clean = limpias
+(to cook - cocinar) He cooks = cocina
+(to cook - cocinar) I cook = cocino
+(to cook - cocinar) They cook = cocinan
+(to cook - cocinar) We cook = cocinamos
+(to cook - cocinar) You all cook = cocináis
+(to cook - cocinar) You cook = cocinas
+(to create - crear) He creates = crea
+(to create - crear) I create = creo
+(to create - crear) They create = crean
+(to create - crear) We create = creamos
+(to create - crear) You all create = creáis
+(to create - crear) You create = creas
+(to cut - cortar) He cuts = corta
+(to cut - cortar) I cut = corto
+(to cut - cortar) They cut = cortan
+(to cut - cortar) We cut = cortamos
+(to cut - cortar) You all cut = cortáis
+(to cut - cortar) You cut = cortas
+(to dance - bailar) He dances = baila
+(to dance - bailar) I dance = bailo
+(to dance - bailar) They dance = bailan
+(to dance - bailar) We dance = bailamos
+(to dance - bailar) You all dance = bailáis
+(to dance - bailar) You dance = bailas
+(to decide - decidir) He decides = decide
+(to decide - decidir) I decide = decido
+(to decide - decidir) They decide = deciden
+(to decide - decidir) We decide = decidimos
+(to decide - decidir) You all decide = decidís
+(to decide - decidir) You decide = decides
+(to draw - dibujar) He draws = dibuja
+(to draw - dibujar) I draw = dibujo
+(to draw - dibujar) They draw = dibujan
+(to draw - dibujar) We draw = dibujamos
+(to draw - dibujar) You all draw = dibujáis
+(to draw - dibujar) You draw = dibujas
+(to eat - comer) He eats = come
+(to eat - comer) I eat = como
+(to eat - comer) They eat = comen
+(to eat - comer) We eat = comemos
+(to eat - comer) You all eat = coméis
+(to eat - comer) You eat = comes
+(to enter - entrar) He enters = entra
+(to enter - entrar) I enter = entro
+(to enter - entrar) They enter = entran
+(to enter - entrar) We enter = entramos
+(to enter - entrar) You all enter = entráis
+(to enter - entrar) You enter = entras
+(to exist - existir) He exists = existe
+(to exist - existir) I exist = existo
+(to exist - existir) They exist = existen
+(to exist - existir) We exist = existimos
+(to exist - existir) You all exist = existís
+(to exist - existir) You exist = existes
+
+(to explain - explicar) He explains = explica
+(to explain - explicar) I explain = explico
+(to explain - explicar) They explain = explican
+(to explain - explicar) We explain = explicamos
+(to explain - explicar) You all explain = explicáis
+(to explain - explicar) You explain = explicas
+(to finish - terminar) He finishes = termina
+(to finish - terminar) I finish = termino
+(to finish - terminar) They finish = terminan
+(to finish - terminar) We finish = terminamos
+(to finish - terminar) You all finish = termináis
+(to finish - terminar) You finish = terminas
+(to form - formar) He forms = forma
+(to form - formar) I form = formo
+(to form - formar) They form = forman
+(to form - formar) We form = formamos
+(to form - formar) You all form = formáis
+(to form - formar) You form = formas
+(to give as a gift - regalar) He gives as a gift = regala
+(to give as a gift - regalar) I give as a gift = regalo
+(to give as a gift - regalar) They give as a gift = regalan
+(to give as a gift - regalar) We give as a gift = regalamos
+(to give as a gift - regalar) You all give as a gift = regaláis
+(to give as a gift - regalar) You give as a gift = regalas
+(to help - ayudar) He helps = ayuda
+(to help - ayudar) I help = ayudo
+(to help - ayudar) They help = ayudan
+(to help - ayudar) We help = ayudamos
+(to help - ayudar) You all help = ayudáis
+(to help - ayudar) You help = ayudas
+(to indicate - indicar) He indicates = indica
+(to indicate - indicar) I indicate = indico
+(to indicate - indicar) They indicate = indican
+(to indicate - indicar) We indicate = indicamos
+(to indicate - indicar) You all indicate = indicáis
+(to indicate - indicar) You indicate = indicas
+(to jump - saltar) He jumps = salta
+(to jump - saltar) I jump = salto
+(to jump - saltar) They jump = saltan
+(to jump - saltar) We jump = saltamos
+(to jump - saltar) You all jump = saltáis
+(to jump - saltar) You jump = saltas
+(to leave - salir) He leaves = sale
+(to leave - salir) I leave = salgo
+(to leave - salir) They leave = salen
+(to leave - salir) We leave = salimos
+(to leave - salir) You all leave = salís
+(to leave - salir) You leave = sales
+(to look - mirar) He looks = mira
+(to look - mirar) I look = miro
+(to look - mirar) They look = miran
+(to look - mirar) We look = miramos
+(to look - mirar) You all look = miráis
+(to look - mirar) You look = miras
+(to move - mover) He moves = mueve
+(to move - mover) I move = muevo
+(to move - mover) They move = mueven
+(to move - mover) We move = movemos
+(to move - mover) You all move = movéis
+(to move - mover) You move = mueves
+(to need - necesitar) He needs = necesita
+(to need - necesitar) I need = necesito
+(to need - necesitar) They need = necesitan
+(to need - necesitar) We need = necesitamos
+(to need - necesitar) You all need = necesitáis
+(to need - necesitar) You need = necesitas
+(to paint - pintar) He paints = pinta
+(to paint - pintar) I paint = pinto
+(to paint - pintar) They paint = pintan
+(to paint - pintar) We paint = pintamos
+(to paint - pintar) You all paint = pintáis
+(to paint - pintar) You paint = pintas
+(to pay - pagar) He pays = paga
+(to pay - pagar) I pay = pago
+(to pay - pagar) They pay = pagan
+(to pay - pagar) We pay = pagamos
+(to pay - pagar) You all pay = pagáis
+(to pay - pagar) You pay = pagas
+(to plant - plantar) He plants = planta
+(to plant - plantar) I plant = planto
+(to plant - plantar) They plant = plantan
+(to plant - plantar) We plant = plantamos
+(to plant - plantar) You all plant = plantáis
+(to plant - plantar) You plant = plantas
+(to play - jugar) He plays = juega
+(to play - jugar) I play = juego
+(to play - jugar) They play = juegan
+(to play - jugar) We play = jugamos
+(to play - jugar) You all play = jugáis
+(to play - jugar) You play = juegas
+(to prepare - preparar
+(to prepare - preparar) He prepares = prepara
+(to prepare - preparar) I prepare = preparo
+(to prepare - preparar) They prepare = preparan
+(to prepare - preparar) We prepare = preparamos
+(to prepare - preparar) You all prepare = preparáis
+(to prepare - preparar) You prepare = preparas
+(to present - presentar) He presents = presenta
+(to present - presentar) I present = presento
+(to present - presentar) They present = presentan
+(to present - presentar) We present = presentamos
+(to present - presentar) You all present = presentáis
+(to present - presentar) You present = presentas
+(to read - leer) He reads = lee
+(to read - leer) I read = leo
+(to read - leer) They read = leen
+(to read - leer) We read = leemos
+(to read - leer) You all read = leéis
+(to read - leer) You read = lees
+(to run - correr) He runs = corre
+(to run - correr) I run = corro
+(to run - correr) They run = corren
+(to run - correr) We run = corremos
+(to run - correr) You all run = corréis
+(to run - correr) You run = corres
+(to search - buscar) He searches = busca
+(to search - buscar) I search = busco
+(to search - buscar) They search = buscan
+(to search - buscar) We search = buscamos
+(to search - buscar) You all search = buscáis
+(to search - buscar) You search = buscas
+(to send - enviar) He sends = envía
+(to send - enviar) I send = envío
+(to send - enviar) They send = envían
+(to send - enviar) We send = enviamos
+(to send - enviar) You all send = enviáis
+(to send - enviar) You send = envías
+(to sing - cantar) He sings = canta
+(to sing - cantar) I sing = canto
+(to sing - cantar) They sing = cantan
+(to sing - cantar) We sing = cantamos
+(to sing - cantar) You all sing = cantáis
+(to sing - cantar) You sing = cantas
+(to speak - hablar) He speaks = habla
+(to speak - hablar) I speak = hablo
+(to speak - hablar) They speak = hablan
+(to speak - hablar) We speak = hablamos
+(to speak - hablar) You all speak = habláis
+(to speak - hablar) You speak = hablas
+(to study - estudiar) He studies = estudia
+(to study - estudiar) I study = estudio
+(to study - estudiar) They study = estudian
+(to study - estudiar) We study = estudiamos
+(to study - estudiar) You all study = estudiáis
+(to study - estudiar) You study = estudias
+(to swim - nadar) He swims = nada
+(to swim - nadar) I swim = nado
+(to swim - nadar) They swim = nadan
+(to swim - nadar) We swim = nadamos
+(to swim - nadar) You all swim = nadáis
+(to swim - nadar) You swim = nadas
+(to take
+(to take - tomar) He takes = toma
+(to take - tomar) I take = tomo
+(to take - tomar) They take = toman
+(to take - tomar) We take = tomamos
+(to take - tomar) You all take = tomáis
+(to take - tomar) You take = tomas
+(to take care of - cuidar
+(to take care of - cuidar) He takes care of = cuida
+(to take care of - cuidar) I take care of = cuido
+(to take care of - cuidar) They take care of = cuidan
+(to take care of - cuidar) We take care of = cuidamos
+(to take care of - cuidar) You all take care of = cuidáis
+(to take care of - cuidar) You take care of = cuidas
+(to teach - enseñar) He teaches = enseña
+(to teach - enseñar) I teach = enseño
+(to teach - enseñar) They teach = enseñan
+(to teach - enseñar) We teach = enseñamos
+(to teach - enseñar) You all teach = enseñáis
+(to teach - enseñar) You teach = enseñas
+(to touch - tocar) He touches = toca
+(to touch - tocar) I touch = toco
+(to touch - tocar) They touch = tocan
+(to touch - tocar) We touch = tocamos
+(to touch - tocar) You all touch = tocáis
+(to touch - tocar) You touch = tocas
+(to travel - viajar) He travels = viaja
+(to travel - viajar) I travel = viajo
+(to travel - viajar) They travel = viajan
+(to travel - viajar) We travel = viajamos
+(to travel - viajar) You all travel = viajáis
+(to travel - viajar) You travel = viajas
+(to try - intentar) He tries = intenta
+(to try - intentar) I try = intento
+(to try - intentar) They try = intentan
+(to try - intentar) We try = intentamos
+(to try - intentar) You all try = intentáis
+(to try - intentar) You try = intentas
+(to wait - esperar) He waits = espera
+(to wait - esperar) I wait = espero
+(to wait - esperar) They wait = esperan
+(to wait - esperar) We wait = esperamos
+(to wait - esperar) You all wait = esperáis
+(to wait - esperar) You wait = esperas
+(to walk - caminar) He walks = camina
+(to walk - caminar) I walk = camino
+(to walk - caminar) They walk = caminan
+(to walk - caminar) We walk = caminamos
+(to walk - caminar) You all walk = camináis
+(to walk - caminar) You walk = caminas
+(to want - querer) He wants = quiere
+(to want - querer) I want = quiero
+(to want - querer) They want = quieren
+(to want - querer) We want = queremos
+(to want - querer) You all want = queréis
+(to want - querer) You want = quieres
+(to wash - lavar) He washes = lava
+(to wash - lavar) I wash = lavo
+(to wash - lavar) They wash = lavan
+(to wash - lavar) We wash = lavamos
+(to wash - lavar) You all wash = laváis
+(to wash - lavar) You wash = lavas
+(to win - ganar) He wins = gana
+(to win - ganar) I win = gano
+(to win - ganar) They win = ganan
+(to win - ganar) We win = ganamos
+(to win - ganar) You all win = ganáis
+(to win - ganar) You win = ganas
+(to work - trabajar) He works = trabaja
+(to work - trabajar) I work = trabajo
+(to work - trabajar) They work = trabajan
+(to work - trabajar) We work = trabajamos
+(to work - trabajar) You all work = trabajáis
+(to work - trabajar) You work = trabajas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(to arrive - llegar) He arrives = llega
+(to arrive - llegar) I arrive = llego
+(to arrive - llegar) They arrive = llegan
+(to arrive - llegar) We arrive = llegamos
+(to arrive - llegar) You all arrive = llegáis
+(to arrive - llegar) You arrive = llegas
+(to ask - preguntar) He asks = pregunta
+(to ask - preguntar) I ask = pregunto
+(to ask - preguntar) They ask = preguntan
+(to ask - preguntar) We ask = preguntamos
+(to ask - preguntar) You all ask = preguntáis
+(to ask - preguntar) You ask = preguntas
+(to buy - comprar) He buys = compra
+(to buy - comprar) I buy = compro
+(to buy - comprar) They buy = compran
+(to buy - comprar) We buy = compramos
+(to buy - comprar) You all buy = compráis
+(to buy - comprar) You buy = compras
+(to call - llamar) He calls = llama
+(to call - llamar) I call = llamo
+(to call - llamar) They call = llaman
+(to call - llamar) We call = llamamos
+(to call - llamar) You all call = llamáis
+(to call - llamar) You call = llamas
+(to clean - limpiar) He cleans = limpia
+(to clean - limpiar) I clean = limpio
+(to clean - limpiar) They clean = limpian
+(to clean - limpiar) We clean = limpiamos
+(to clean - limpiar) You all clean = limpiáis
+(to clean - limpiar) You clean = limpias
+(to cook - cocinar) He cooks = cocina
+(to cook - cocinar) I cook = cocino
+(to cook - cocinar) They cook = cocinan
+(to cook - cocinar) We cook = cocinamos
+(to cook - cocinar) You all cook = cocináis
+(to cook - cocinar) You cook = cocinas
+(to create - crear) He creates = crea
+(to create - crear) I create = creo
+(to create - crear) They create = crean
+(to create - crear) We create = creamos
+(to create - crear) You all create = creáis
+(to create - crear) You create = creas
+(to cut - cortar) He cuts = corta
+(to cut - cortar) I cut = corto
+(to cut - cortar) They cut = cortan
+(to cut - cortar) We cut = cortamos
+(to cut - cortar) You all cut = cortáis
+(to cut - cortar) You cut = cortas
+(to dance - bailar) He dances = baila
+(to dance - bailar) I dance = bailo
+(to dance - bailar) They dance = bailan
+(to dance - bailar) We dance = bailamos
+(to dance - bailar) You all dance = bailáis
+(to dance - bailar) You dance = bailas
+(to decide - decidir) He decides = decide
+(to decide - decidir) I decide = decido
+(to decide - decidir) They decide = deciden
+(to decide - decidir) We decide = decidimos
+(to decide - decidir) You all decide = decidís
+(to decide - decidir) You decide = decides
+(to draw - dibujar) He draws = dibuja
+(to draw - dibujar) I draw = dibujo
+(to draw - dibujar) They draw = dibujan
+(to draw - dibujar) We draw = dibujamos
+(to draw - dibujar) You all draw = dibujáis
+(to draw - dibujar) You draw = dibujas
+(to eat - comer) He eats = come
+(to eat - comer) I eat = como
+(to eat - comer) They eat = comen
+(to eat - comer) We eat = comemos
+(to eat - comer) You all eat = coméis
+(to eat - comer) You eat = comes
+(to enter - entrar) He enters = entra
+(to enter - entrar) I enter = entro
+(to enter - entrar) They enter = entran
+(to enter - entrar) We enter = entramos
+(to enter - entrar) You all enter = entráis
+(to enter - entrar) You enter = entras
+(to exist - existir) He exists = existe
+(to exist - existir) I exist = existo
+(to exist - existir) They exist = existen
+(to exist - existir) We exist = existimos
+(to exist - existir) You all exist = existís
+(to exist - existir) You exist = existes
+
+(to explain - explicar) He explains = explica
+(to explain - explicar) I explain = explico
+(to explain - explicar) They explain = explican
+(to explain - explicar) We explain = explicamos
+(to explain - explicar) You all explain = explicáis
+(to explain - explicar) You explain = explicas
+(to finish - terminar) He finishes = termina
+(to finish - terminar) I finish = termino
+(to finish - terminar) They finish = terminan
+(to finish - terminar) We finish = terminamos
+(to finish - terminar) You all finish = termináis
+(to finish - terminar) You finish = terminas
+(to form - formar) He forms = forma
+(to form - formar) I form = formo
+(to form - formar) They form = forman
+(to form - formar) We form = formamos
+(to form - formar) You all form = formáis
+(to form - formar) You form = formas
+(to give as a gift - regalar) He gives as a gift = regala
+(to give as a gift - regalar) I give as a gift = regalo
+(to give as a gift - regalar) They give as a gift = regalan
+(to give as a gift - regalar) We give as a gift = regalamos
+(to give as a gift - regalar) You all give as a gift = regaláis
+(to give as a gift - regalar) You give as a gift = regalas
+(to help - ayudar) He helps = ayuda
+(to help - ayudar) I help = ayudo
+(to help - ayudar) They help = ayudan
+(to help - ayudar) We help = ayudamos
+(to help - ayudar) You all help = ayudáis
+(to help - ayudar) You help = ayudas
+(to indicate - indicar) He indicates = indica
+(to indicate - indicar) I indicate = indico
+(to indicate - indicar) They indicate = indican
+(to indicate - indicar) We indicate = indicamos
+(to indicate - indicar) You all indicate = indicáis
+(to indicate - indicar) You indicate = indicas
+(to jump - saltar) He jumps = salta
+(to jump - saltar) I jump = salto
+(to jump - saltar) They jump = saltan
+(to jump - saltar) We jump = saltamos
+(to jump - saltar) You all jump = saltáis
+(to jump - saltar) You jump = saltas
+(to leave - salir) He leaves = sale
+(to leave - salir) I leave = salgo
+(to leave - salir) They leave = salen
+(to leave - salir) We leave = salimos
+(to leave - salir) You all leave = salís
+(to leave - salir) You leave = sales
+(to look - mirar) He looks = mira
+(to look - mirar) I look = miro
+(to look - mirar) They look = miran
+(to look - mirar) We look = miramos
+(to look - mirar) You all look = miráis
+(to look - mirar) You look = miras
+(to move - mover) He moves = mueve
+(to move - mover) I move = muevo
+(to move - mover) They move = mueven
+(to move - mover) We move = movemos
+(to move - mover) You all move = movéis
+(to move - mover) You move = mueves
+(to need - necesitar) He needs = necesita
+(to need - necesitar) I need = necesito
+(to need - necesitar) They need = necesitan
+(to need - necesitar) We need = necesitamos
+(to need - necesitar) You all need = necesitáis
+(to need - necesitar) You need = necesitas
+(to paint - pintar) He paints = pinta
+(to paint - pintar) I paint = pinto
+(to paint - pintar) They paint = pintan
+(to paint - pintar) We paint = pintamos
+(to paint - pintar) You all paint = pintáis
+(to paint - pintar) You paint = pintas
+(to pay - pagar) He pays = paga
+(to pay - pagar) I pay = pago
+(to pay - pagar) They pay = pagan
+(to pay - pagar) We pay = pagamos
+(to pay - pagar) You all pay = pagáis
+(to pay - pagar) You pay = pagas
+(to plant - plantar) He plants = planta
+(to plant - plantar) I plant = planto
+(to plant - plantar) They plant = plantan
+(to plant - plantar) We plant = plantamos
+(to plant - plantar) You all plant = plantáis
+(to plant - plantar) You plant = plantas
+(to play - jugar) He plays = juega
+(to play - jugar) I play = juego
+(to play - jugar) They play = juegan
+(to play - jugar) We play = jugamos
+(to play - jugar) You all play = jugáis
+(to play - jugar) You play = juegas
+(to prepare - preparar
+(to prepare - preparar) He prepares = prepara
+(to prepare - preparar) I prepare = preparo
+(to prepare - preparar) They prepare = preparan
+(to prepare - preparar) We prepare = preparamos
+(to prepare - preparar) You all prepare = preparáis
+(to prepare - preparar) You prepare = preparas
+(to present - presentar) He presents = presenta
+(to present - presentar) I present = presento
+(to present - presentar) They present = presentan
+(to present - presentar) We present = presentamos
+(to present - presentar) You all present = presentáis
+(to present - presentar) You present = presentas
+(to read - leer) He reads = lee
+(to read - leer) I read = leo
+(to read - leer) They read = leen
+(to read - leer) We read = leemos
+(to read - leer) You all read = leéis
+(to read - leer) You read = lees
+(to run - correr) He runs = corre
+(to run - correr) I run = corro
+(to run - correr) They run = corren
+(to run - correr) We run = corremos
+(to run - correr) You all run = corréis
+(to run - correr) You run = corres
+(to search - buscar) He searches = busca
+(to search - buscar) I search = busco
+(to search - buscar) They search = buscan
+(to search - buscar) We search = buscamos
+(to search - buscar) You all search = buscáis
+(to search - buscar) You search = buscas
+(to send - enviar) He sends = envía
+(to send - enviar) I send = envío
+(to send - enviar) They send = envían
+(to send - enviar) We send = enviamos
+(to send - enviar) You all send = enviáis
+(to send - enviar) You send = envías
+(to sing - cantar) He sings = canta
+(to sing - cantar) I sing = canto
+(to sing - cantar) They sing = cantan
+(to sing - cantar) We sing = cantamos
+(to sing - cantar) You all sing = cantáis
+(to sing - cantar) You sing = cantas
+(to speak - hablar) He speaks = habla
+(to speak - hablar) I speak = hablo
+(to speak - hablar) They speak = hablan
+(to speak - hablar) We speak = hablamos
+(to speak - hablar) You all speak = habláis
+(to speak - hablar) You speak = hablas
+(to study - estudiar) He studies = estudia
+(to study - estudiar) I study = estudio
+(to study - estudiar) They study = estudian
+(to study - estudiar) We study = estudiamos
+(to study - estudiar) You all study = estudiáis
+(to study - estudiar) You study = estudias
+(to swim - nadar) He swims = nada
+(to swim - nadar) I swim = nado
+(to swim - nadar) They swim = nadan
+(to swim - nadar) We swim = nadamos
+(to swim - nadar) You all swim = nadáis
+(to swim - nadar) You swim = nadas
+(to take
+(to take - tomar) He takes = toma
+(to take - tomar) I take = tomo
+(to take - tomar) They take = toman
+(to take - tomar) We take = tomamos
+(to take - tomar) You all take = tomáis
+(to take - tomar) You take = tomas
+(to take care of - cuidar
+(to take care of - cuidar) He takes care of = cuida
+(to take care of - cuidar) I take care of = cuido
+(to take care of - cuidar) They take care of = cuidan
+(to take care of - cuidar) We take care of = cuidamos
+(to take care of - cuidar) You all take care of = cuidáis
+(to take care of - cuidar) You take care of = cuidas
+(to teach - enseñar) He teaches = enseña
+(to teach - enseñar) I teach = enseño
+(to teach - enseñar) They teach = enseñan
+(to teach - enseñar) We teach = enseñamos
+(to teach - enseñar) You all teach = enseñáis
+(to teach - enseñar) You teach = enseñas
+(to touch - tocar) He touches = toca
+(to touch - tocar) I touch = toco
+(to touch - tocar) They touch = tocan
+(to touch - tocar) We touch = tocamos
+(to touch - tocar) You all touch = tocáis
+(to touch - tocar) You touch = tocas
+(to travel - viajar) He travels = viaja
+(to travel - viajar) I travel = viajo
+(to travel - viajar) They travel = viajan
+(to travel - viajar) We travel = viajamos
+(to travel - viajar) You all travel = viajáis
+(to travel - viajar) You travel = viajas
+(to try - intentar) He tries = intenta
+(to try - intentar) I try = intento
+(to try - intentar) They try = intentan
+(to try - intentar) We try = intentamos
+(to try - intentar) You all try = intentáis
+(to try - intentar) You try = intentas
+(to wait - esperar) He waits = espera
+(to wait - esperar) I wait = espero
+(to wait - esperar) They wait = esperan
+(to wait - esperar) We wait = esperamos
+(to wait - esperar) You all wait = esperáis
+(to wait - esperar) You wait = esperas
+(to walk - caminar) He walks = camina
+(to walk - caminar) I walk = camino
+(to walk - caminar) They walk = caminan
+(to walk - caminar) We walk = caminamos
+(to walk - caminar) You all walk = camináis
+(to walk - caminar) You walk = caminas
+(to want - querer) He wants = quiere
+(to want - querer) I want = quiero
+(to want - querer) They want = quieren
+(to want - querer) We want = queremos
+(to want - querer) You all want = queréis
+(to want - querer) You want = quieres
+(to wash - lavar) He washes = lava
+(to wash - lavar) I wash = lavo
+(to wash - lavar) They wash = lavan
+(to wash - lavar) We wash = lavamos
+(to wash - lavar) You all wash = laváis
+(to wash - lavar) You wash = lavas
+(to win - ganar) He wins = gana
+(to win - ganar) I win = gano
+(to win - ganar) They win = ganan
+(to win - ganar) We win = ganamos
+(to win - ganar) You all win = ganáis
+(to win - ganar) You win = ganas
+(to work - trabajar) He works = trabaja
+(to work - trabajar) I work = trabajo
+(to work - trabajar) They work = trabajan
+(to work - trabajar) We work = trabajamos
+(to work - trabajar) You all work = trabajáis
+(to work - trabajar) You work = trabajas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(to arrive - llegar) He arrives = llega
+(to arrive - llegar) I arrive = llego
+(to arrive - llegar) They arrive = llegan
+(to arrive - llegar) We arrive = llegamos
+(to arrive - llegar) You all arrive = llegáis
+(to arrive - llegar) You arrive = llegas
+(to ask - preguntar) He asks = pregunta
+(to ask - preguntar) I ask = pregunto
+(to ask - preguntar) They ask = preguntan
+(to ask - preguntar) We ask = preguntamos
+(to ask - preguntar) You all ask = preguntáis
+(to ask - preguntar) You ask = preguntas
+(to buy - comprar) He buys = compra
+(to buy - comprar) I buy = compro
+(to buy - comprar) They buy = compran
+(to buy - comprar) We buy = compramos
+(to buy - comprar) You all buy = compráis
+(to buy - comprar) You buy = compras
+(to call - llamar) He calls = llama
+(to call - llamar) I call = llamo
+(to call - llamar) They call = llaman
+(to call - llamar) We call = llamamos
+(to call - llamar) You all call = llamáis
+(to call - llamar) You call = llamas
+(to clean - limpiar) He cleans = limpia
+(to clean - limpiar) I clean = limpio
+(to clean - limpiar) They clean = limpian
+(to clean - limpiar) We clean = limpiamos
+(to clean - limpiar) You all clean = limpiáis
+(to clean - limpiar) You clean = limpias
+(to cook - cocinar) He cooks = cocina
+(to cook - cocinar) I cook = cocino
+(to cook - cocinar) They cook = cocinan
+(to cook - cocinar) We cook = cocinamos
+(to cook - cocinar) You all cook = cocináis
+(to cook - cocinar) You cook = cocinas
+(to create - crear) He creates = crea
+(to create - crear) I create = creo
+(to create - crear) They create = crean
+(to create - crear) We create = creamos
+(to create - crear) You all create = creáis
+(to create - crear) You create = creas
+(to cut - cortar) He cuts = corta
+(to cut - cortar) I cut = corto
+(to cut - cortar) They cut = cortan
+(to cut - cortar) We cut = cortamos
+(to cut - cortar) You all cut = cortáis
+(to cut - cortar) You cut = cortas
+(to dance - bailar) He dances = baila
+(to dance - bailar) I dance = bailo
+(to dance - bailar) They dance = bailan
+(to dance - bailar) We dance = bailamos
+(to dance - bailar) You all dance = bailáis
+(to dance - bailar) You dance = bailas
+(to decide - decidir) He decides = decide
+(to decide - decidir) I decide = decido
+(to decide - decidir) They decide = deciden
+(to decide - decidir) We decide = decidimos
+(to decide - decidir) You all decide = decidís
+(to decide - decidir) You decide = decides
+(to draw - dibujar) He draws = dibuja
+(to draw - dibujar) I draw = dibujo
+(to draw - dibujar) They draw = dibujan
+(to draw - dibujar) We draw = dibujamos
+(to draw - dibujar) You all draw = dibujáis
+(to draw - dibujar) You draw = dibujas
+(to eat - comer) He eats = come
+(to eat - comer) I eat = como
+(to eat - comer) They eat = comen
+(to eat - comer) We eat = comemos
+(to eat - comer) You all eat = coméis
+(to eat - comer) You eat = comes
+(to enter - entrar) He enters = entra
+(to enter - entrar) I enter = entro
+(to enter - entrar) They enter = entran
+(to enter - entrar) We enter = entramos
+(to enter - entrar) You all enter = entráis
+(to enter - entrar) You enter = entras
+(to exist - existir) He exists = existe
+(to exist - existir) I exist = existo
+(to exist - existir) They exist = existen
+(to exist - existir) We exist = existimos
+(to exist - existir) You all exist = existís
+(to exist - existir) You exist = existes
+
+(to explain - explicar) He explains = explica
+(to explain - explicar) I explain = explico
+(to explain - explicar) They explain = explican
+(to explain - explicar) We explain = explicamos
+(to explain - explicar) You all explain = explicáis
+(to explain - explicar) You explain = explicas
+(to finish - terminar) He finishes = termina
+(to finish - terminar) I finish = termino
+(to finish - terminar) They finish = terminan
+(to finish - terminar) We finish = terminamos
+(to finish - terminar) You all finish = termináis
+(to finish - terminar) You finish = terminas
+(to form - formar) He forms = forma
+(to form - formar) I form = formo
+(to form - formar) They form = forman
+(to form - formar) We form = formamos
+(to form - formar) You all form = formáis
+(to form - formar) You form = formas
+(to give as a gift - regalar) He gives as a gift = regala
+(to give as a gift - regalar) I give as a gift = regalo
+(to give as a gift - regalar) They give as a gift = regalan
+(to give as a gift - regalar) We give as a gift = regalamos
+(to give as a gift - regalar) You all give as a gift = regaláis
+(to give as a gift - regalar) You give as a gift = regalas
+(to help - ayudar) He helps = ayuda
+(to help - ayudar) I help = ayudo
+(to help - ayudar) They help = ayudan
+(to help - ayudar) We help = ayudamos
+(to help - ayudar) You all help = ayudáis
+(to help - ayudar) You help = ayudas
+(to indicate - indicar) He indicates = indica
+(to indicate - indicar) I indicate = indico
+(to indicate - indicar) They indicate = indican
+(to indicate - indicar) We indicate = indicamos
+(to indicate - indicar) You all indicate = indicáis
+(to indicate - indicar) You indicate = indicas
+(to jump - saltar) He jumps = salta
+(to jump - saltar) I jump = salto
+(to jump - saltar) They jump = saltan
+(to jump - saltar) We jump = saltamos
+(to jump - saltar) You all jump = saltáis
+(to jump - saltar) You jump = saltas
+(to leave - salir) He leaves = sale
+(to leave - salir) I leave = salgo
+(to leave - salir) They leave = salen
+(to leave - salir) We leave = salimos
+(to leave - salir) You all leave = salís
+(to leave - salir) You leave = sales
+(to look - mirar) He looks = mira
+(to look - mirar) I look = miro
+(to look - mirar) They look = miran
+(to look - mirar) We look = miramos
+(to look - mirar) You all look = miráis
+(to look - mirar) You look = miras
+(to move - mover) He moves = mueve
+(to move - mover) I move = muevo
+(to move - mover) They move = mueven
+(to move - mover) We move = movemos
+(to move - mover) You all move = movéis
+(to move - mover) You move = mueves
+(to need - necesitar) He needs = necesita
+(to need - necesitar) I need = necesito
+(to need - necesitar) They need = necesitan
+(to need - necesitar) We need = necesitamos
+(to need - necesitar) You all need = necesitáis
+(to need - necesitar) You need = necesitas
+(to paint - pintar) He paints = pinta
+(to paint - pintar) I paint = pinto
+(to paint - pintar) They paint = pintan
+(to paint - pintar) We paint = pintamos
+(to paint - pintar) You all paint = pintáis
+(to paint - pintar) You paint = pintas
+(to pay - pagar) He pays = paga
+(to pay - pagar) I pay = pago
+(to pay - pagar) They pay = pagan
+(to pay - pagar) We pay = pagamos
+(to pay - pagar) You all pay = pagáis
+(to pay - pagar) You pay = pagas
+(to plant - plantar) He plants = planta
+(to plant - plantar) I plant = planto
+(to plant - plantar) They plant = plantan
+(to plant - plantar) We plant = plantamos
+(to plant - plantar) You all plant = plantáis
+(to plant - plantar) You plant = plantas
+(to play - jugar) He plays = juega
+(to play - jugar) I play = juego
+(to play - jugar) They play = juegan
+(to play - jugar) We play = jugamos
+(to play - jugar) You all play = jugáis
+(to play - jugar) You play = juegas
+(to prepare - preparar
+(to prepare - preparar) He prepares = prepara
+(to prepare - preparar) I prepare = preparo
+(to prepare - preparar) They prepare = preparan
+(to prepare - preparar) We prepare = preparamos
+(to prepare - preparar) You all prepare = preparáis
+(to prepare - preparar) You prepare = preparas
+(to present - presentar) He presents = presenta
+(to present - presentar) I present = presento
+(to present - presentar) They present = presentan
+(to present - presentar) We present = presentamos
+(to present - presentar) You all present = presentáis
+(to present - presentar) You present = presentas
+(to read - leer) He reads = lee
+(to read - leer) I read = leo
+(to read - leer) They read = leen
+(to read - leer) We read = leemos
+(to read - leer) You all read = leéis
+(to read - leer) You read = lees
+(to run - correr) He runs = corre
+(to run - correr) I run = corro
+(to run - correr) They run = corren
+(to run - correr) We run = corremos
+(to run - correr) You all run = corréis
+(to run - correr) You run = corres
+(to search - buscar) He searches = busca
+(to search - buscar) I search = busco
+(to search - buscar) They search = buscan
+(to search - buscar) We search = buscamos
+(to search - buscar) You all search = buscáis
+(to search - buscar) You search = buscas
+(to send - enviar) He sends = envía
+(to send - enviar) I send = envío
+(to send - enviar) They send = envían
+(to send - enviar) We send = enviamos
+(to send - enviar) You all send = enviáis
+(to send - enviar) You send = envías
+(to sing - cantar) He sings = canta
+(to sing - cantar) I sing = canto
+(to sing - cantar) They sing = cantan
+(to sing - cantar) We sing = cantamos
+(to sing - cantar) You all sing = cantáis
+(to sing - cantar) You sing = cantas
+(to speak - hablar) He speaks = habla
+(to speak - hablar) I speak = hablo
+(to speak - hablar) They speak = hablan
+(to speak - hablar) We speak = hablamos
+(to speak - hablar) You all speak = habláis
+(to speak - hablar) You speak = hablas
+(to study - estudiar) He studies = estudia
+(to study - estudiar) I study = estudio
+(to study - estudiar) They study = estudian
+(to study - estudiar) We study = estudiamos
+(to study - estudiar) You all study = estudiáis
+(to study - estudiar) You study = estudias
+(to swim - nadar) He swims = nada
+(to swim - nadar) I swim = nado
+(to swim - nadar) They swim = nadan
+(to swim - nadar) We swim = nadamos
+(to swim - nadar) You all swim = nadáis
+(to swim - nadar) You swim = nadas
+(to take
+(to take - tomar) He takes = toma
+(to take - tomar) I take = tomo
+(to take - tomar) They take = toman
+(to take - tomar) We take = tomamos
+(to take - tomar) You all take = tomáis
+(to take - tomar) You take = tomas
+(to take care of - cuidar
+(to take care of - cuidar) He takes care of = cuida
+(to take care of - cuidar) I take care of = cuido
+(to take care of - cuidar) They take care of = cuidan
+(to take care of - cuidar) We take care of = cuidamos
+(to take care of - cuidar) You all take care of = cuidáis
+(to take care of - cuidar) You take care of = cuidas
+(to teach - enseñar) He teaches = enseña
+(to teach - enseñar) I teach = enseño
+(to teach - enseñar) They teach = enseñan
+(to teach - enseñar) We teach = enseñamos
+(to teach - enseñar) You all teach = enseñáis
+(to teach - enseñar) You teach = enseñas
+(to touch - tocar) He touches = toca
+(to touch - tocar) I touch = toco
+(to touch - tocar) They touch = tocan
+(to touch - tocar) We touch = tocamos
+(to touch - tocar) You all touch = tocáis
+(to touch - tocar) You touch = tocas
+(to travel - viajar) He travels = viaja
+(to travel - viajar) I travel = viajo
+(to travel - viajar) They travel = viajan
+(to travel - viajar) We travel = viajamos
+(to travel - viajar) You all travel = viajáis
+(to travel - viajar) You travel = viajas
+(to try - intentar) He tries = intenta
+(to try - intentar) I try = intento
+(to try - intentar) They try = intentan
+(to try - intentar) We try = intentamos
+(to try - intentar) You all try = intentáis
+(to try - intentar) You try = intentas
+(to wait - esperar) He waits = espera
+(to wait - esperar) I wait = espero
+(to wait - esperar) They wait = esperan
+(to wait - esperar) We wait = esperamos
+(to wait - esperar) You all wait = esperáis
+(to wait - esperar) You wait = esperas
+(to walk - caminar) He walks = camina
+(to walk - caminar) I walk = camino
+(to walk - caminar) They walk = caminan
+(to walk - caminar) We walk = caminamos
+(to walk - caminar) You all walk = camináis
+(to walk - caminar) You walk = caminas
+(to want - querer) He wants = quiere
+(to want - querer) I want = quiero
+(to want - querer) They want = quieren
+(to want - querer) We want = queremos
+(to want - querer) You all want = queréis
+(to want - querer) You want = quieres
+(to wash - lavar) He washes = lava
+(to wash - lavar) I wash = lavo
+(to wash - lavar) They wash = lavan
+(to wash - lavar) We wash = lavamos
+(to wash - lavar) You all wash = laváis
+(to wash - lavar) You wash = lavas
+(to win - ganar) He wins = gana
+(to win - ganar) I win = gano
+(to win - ganar) They win = ganan
+(to win - ganar) We win = ganamos
+(to win - ganar) You all win = ganáis
+(to win - ganar) You win = ganas
+(to work - trabajar) He works = trabaja
+(to work - trabajar) I work = trabajo
+(to work - trabajar) They work = trabajan
+(to work - trabajar) We work = trabajamos
+(to work - trabajar) You all work = trabajáis
+(to work - trabajar) You work = trabajas
+(to arrive - llegar) She arrives = llega
+(to ask - preguntar) She asks = pregunta
+(to buy - comprar) She buys = compra
+(to call - llamar) She calls = llama
+(to clean - limpiar) She cleans = limpia
+(to cook - cocinar) She cooks = cocina
+(to create - crear) She creates = crea
+(to cut - cortar) She cuts = corta
+(to dance - bailar) She dances = baila
+(to decide - decidir) She decides = decide
+(to draw - dibujar) She draws = dibuja
+(to eat - comer) She eats = come
+(to enter - entrar) She enters = entra
+(to exist - existir) She exists = existe
+(to explain - explicar) She explains = explica
+(to finish - terminar) She finishes = termina
+(to form - formar) She forms = forma
+(to give as a gift - regalar) She gives as a gift = regala
+(to help - ayudar) She helps = ayuda
+(to indicate - indicar) She indicates = indica
+(to jump - saltar) She jumps = salta
+(to leave - salir) She leaves = sale
+(to look - mirar) She looks = mira
+(to need - necesitar) She needs = necesita
+(to paint - pintar) She paints = pinta
+(to pay - pagar) She pays = paga
+(to plant - plantar) She plants = planta
+(to play - jugar) She plays = juega
+(to prepare - preparar) She prepares = prepara
+(to present - presentar) She presents = presenta
+(to read - leer) She reads = lee
+(to run - correr) She runs = corre
+(to search - buscar) She searches = busca
+(to send - enviar) She sends = envía
+(to sing - cantar) She sings = canta
+(to speak - hablar) She speaks = habla
+(to study - estudiar) She studies = estudia
+(to swim - nadar) She swims = nada
+(to take - tomar) She takes = toma
+(to take care of - cuidar) She takes care of = cuida
+(to teach - enseñar) She teaches = enseña
+(to touch - tocar) She touches = toca
+(to travel - viajar) She travels = viaja
+(to try - intentar) She tries = intenta
+(to wait - esperar) She waits = espera
+(to walk - caminar) She walks = camina
+(to wash - lavar) She washes = lava
+(to win - ganar) She wins = gana
+(to work - trabajar) She works = trabaja
