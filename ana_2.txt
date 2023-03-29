@@ -2,12 +2,3 @@
 It's measured in [amperes], A.
 2) Remember - current doesn't get [used] up in a circuit.
 So the current through the ammeter and the bulb are the [same].
-3) You can connect the ammeter [anywhere] in the circuit.
-Voltmeters Measure Potential Difference:
-1) Voltmeters measure potential difference in [volts], V.
-2) You measure the potential difference between two [points]
-in the circuit. For example, either side of a [bulb].
-Batteries and Bulbs Have Potential Difference Ratings:
-1) A battery potential difference rating tells you
-the [potential] difference it will supply.
-2) A bulb rating tells you the [maximum].
