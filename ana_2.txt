@@ -1,8 +1,7 @@
-Electric Circuits:
-Current is the flow of [charge] (negative [electrons]) around a circuit.
-Current doesn’t get used up (think of water getting [pumped] around a fountain)
-The [battery] is like a pump, it’s the driving force that pushes the [charge] around the [circuit].
-This is call the Potential Difference (PD) – the higher the PD or [voltage] the faster or higher the current/charge will be. 
-[Resistance] slows down the flow of [current]. Resistance is measured in [ohms] (Ω).
-The formula to work out how much [resistance] there is in a circuit is:
-Resistance = [PD] ÷ [Current]
+to cut = cortar		we cut = cortamos	we play = jugamos	to play = jugar     
+
+to eat = comer		we eat = comemos	to listen = escuchar	we listen = escuchamos
+
+to do = hacer		we do = hacemos		to visit = visitar	we visit = visitamos
+
+to work = trabajar	we work = trabajamos	to see = ver		we see = vemos		
