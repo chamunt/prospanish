@@ -1,4 +1,4 @@
-to cut = [cortar]		we cut = [cortamos] 	  we play = [jugamos]   	to play = [jugar]
-to eat = [comer]	  	we eat = [comemos]	   to listen = [escuchar]	    we listen = [escuchamos]
-to do = [hacer]		we do = [hacemos]		to visit = [visitar]	we visit = [visitamos]
-to work = [trabajar]   	we work = [trabajamos]    	to see = [ver]	  	we see = [vemos]
+to cut = [cortar]
+we cut = [cortamos]
+we play = [jugamos]
+to play = [jugar]
