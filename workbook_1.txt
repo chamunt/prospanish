@@ -1,5 +1,17 @@
 [iframe]
 https://prospanish.co.uk/table_1_1.html
+[vocablist]
+un perro    =     a dog
+tengo =     I have
+es    =     it's
+importante, diferente   =     important, different
+no es =     it's not
+no tengo    =     I don't have
+para mí/para ti   =     for me/you
+bueno/malo  =     good bad
+quiero      =     I want
+tienes      =     (Do) you have
+pero  =     but
 
 [exercise]
 No es para ​__. (It's not for me.)
