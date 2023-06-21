@@ -1,4 +1,4 @@
-<iframe id="table-iframe" src="https://prospanish.co.uk/table_1_1.html" style="border: none;"></iframe>
+https://prospanish.co.uk/table_1_1.html
 
 [exercise]
 No es para ​__. (It's not for me.)
