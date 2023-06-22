@@ -19,12 +19,12 @@ No ​___ bueno. (It's not good.)
 ​____ ti, es diferente. (For you, it's different.)
 ¿ ______ un perro? (Do you have a dog?)
 
-[exercise]
+[exercise2]
 Translate this text into English. Try to identify these new words from the context: to have, and, obedient
 
 Para mí, es importante tener un animal. Tengo un gato, es muy bueno y obediente. Pero, para ti, ¿es importante tener un animal? 
 
-[exercise]
+[exercise3]
 Translate these sentences into Spanish
 It's good.
 It's not good.
