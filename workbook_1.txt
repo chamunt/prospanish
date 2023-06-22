@@ -12,7 +12,7 @@ bueno/malo  =     good bad
 quiero      =     I want
 tienes      =     (Do) you have
 pero  =     but
-[exercise]
+[exercise1]
 No es para ​__. (It's not for me.)
 ​______ comer. (I want to eat.)
 No ​___ bueno. (It's not good.)
