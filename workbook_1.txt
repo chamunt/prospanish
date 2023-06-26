@@ -30,7 +30,7 @@ Para mí, es importante tener un animal. Tengo un gato, es muy bueno y obediente
 
 [exercise3]
 <H4>Translate these sentences into Spanish <H4>
-It's good.
+<italics>It's good<italics>.
 It's not good.
 Tienes algo urgente para mí. You have something urgent for me.
 Quiero algo. I want something.
