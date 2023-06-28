@@ -35,3 +35,41 @@ Tienes algo urgente para mí. You have something urgent for me.
 Quiero algo. I want something.
 No tengo un gato.
 Es bueno tener un animal.
+
+<h3>Lesson 2 Level 1
+[iframe]
+https://prospanish.co.uk/table_1_2.html
+[vocablist]
+<H4>Lesson Vocabulary<H4>
+un gato =     a cat
+tienes=     you have
+es    =     it's
+importante, diferente   =     important, different
+no es =     it's not
+no tengo    =     I don't have
+para mí/para ti   =     for me/you
+bueno/malo  =     good bad
+quiero      =     I want
+tienes      =     (Do) you have
+pero  =     but
+[exercise]
+<H4>Fill in the blanks<H4>
+No es para ​__. (It's not for me.)
+​______ comer. (I want to eat.)
+No ​___ bueno. (It's not good.)
+​____ ti, es diferente. (For you, it's different.)
+¿ ______ un perro? (Do you have a dog?)
+
+[exercise2]
+<H4>Translate this text into English <H4> 
+<italics>Try to identify these new words from the context:</italics> <bolditalics>to have, and, obedient</bolditalics>
+Para mí, es importante tener un animal. Tengo un gato, es muy bueno y obediente. Pero, para ti, ¿es importante tener un animal? 
+
+[exercise3]
+<H4>Translate these sentences into Spanish <H4>
+It's good.
+It's not good.
+Tienes algo urgente para mí. You have something urgent for me.
+Quiero algo. I want something.
+No tengo un gato.
+Es bueno tener un animal.
