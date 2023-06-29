@@ -17,7 +17,6 @@ to see = ver
 today = hoy
 tomorrow = mañana
 [exercise]
-
 <h4>Fill in the blanks<h4>
 1) Quiero ______. (I want to eat.)
 2) Es ______. (It's cold.)
@@ -25,12 +24,10 @@ tomorrow = mañana
 4) Hoy, puedo ______. (Today, I can do it.)
 5) Mañana, quiero ______. (Tomorrow, I want to see it.)
 [exercise2]
-
 <h4>Translate this text into English<h4> 
 <italics>Try to identify these new words from the context:</italics> <bolditalics>la fiesta</bolditalics>
 Quiero comer algo hoy. Si quieres, puedes comprar una invitación para la fiesta de mañana. Es importante.
 [exercise3]
-
 <h4>Translate these sentences into Spanish<h4> 
 1) I want to drink something cold.
 2) Do you want to buy it?
