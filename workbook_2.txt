@@ -2,7 +2,7 @@
 [iframe]
 https://prospanish.co.uk/table_1_2.html
 [vocablist]
-<h4>Lesson Vocabulary<H4>
+<h4>Lesson Vocabulary</h4>
 to eat/ to drink = comer/beber
 cold = frío
 (do) you want = quieres
@@ -17,7 +17,7 @@ to see = ver
 today = hoy
 tomorrow = mañana
 [exercise]
-<H4>Fill in the blanks<H4>
+<h4>Fill in the blanks</h4>
 1) Quiero ______. (I want to eat.)
 2) Es ______. (It's cold.)
 3) ¿______ comprarlo? (Do you want to buy it?)
