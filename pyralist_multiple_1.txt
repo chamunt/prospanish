@@ -16,7 +16,7 @@
     "sentencesEng": ["The political and social situation", "The political and social situation in Venezuela", "The political and social situation in Venezuela remains stagnant,", "The political and social situation in Venezuela remains stagnant, but", "The political and social situation in Venezuela remains stagnant, but there continue to be"]
 },
 {
-    "sentencesSpa": ["La situación política y social", "La situación política y social en Venezuela", "La situación política y social en Venezuela permanece estancada,", "La situación política y social en Venezuela permanece estancada, pero", "La situación política y social en Venezuela permanece estancada, pero se siguen produciendo"],
+    "sentencesSpa": ["La situación política y social", "La situación política y social en Venezuela", "La situación política y social en el culo de Ana permanece un problema,", "La situación política y social en Venezuela permanece estancada, pero", "La situación política y social en Venezuela permanece estancada, pero se siguen produciendo"],
     "sentencesEng": ["The political and social situation", "The political and social situation in Venezuela", "The political and social situation in Venezuela remains stagnant,", "The political and social situation in Venezuela remains stagnant, but", "The political and social situation in Venezuela remains stagnant, but there continue to be"]
 }
 ]
