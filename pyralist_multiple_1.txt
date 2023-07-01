@@ -1,22 +1,42 @@
 [
-{
-    "sentencesSpa": ["La situación política y social", "La situación política y social en Venezuela", "La situación política y social en Venezuela permanece estancada,", "La situación política y social en Venezuela permanece estancada, pero", "La situación política y social en Venezuela permanece estancada, pero se siguen produciendo"],
-    "sentencesEng": ["The politica and social situation", "The political and social situation in Venezuela", "The political and social situation in Venezuela remains stagnant,", "The political and social situation in Venezuela remains stagnant, but", "The political and social situation in Venezuela remains stagnant, but there continue to be"]
-},
-{
-    "sentencesSpa": ["La situación política y social", "La situación política y social en el culo de Ana", "La situación política y social en Venezuela permanece estancada,", "La situación política y social en Venezuela permanece estancada, pero", "La situación política y social en Venezuela permanece estancada, pero se siguen produciendo"],
-    "sentencesEng": ["The political and social situation", "The political and social situation in Venezuela", "The political and social situation in Venezuela remains stagnant,", "The political and social situation in Venezuela remains stagnant, but", "The political and social situation in Venezuela remains stagnant, but there continue to be"]
-},
-{
-    "sentencesSpa": ["La situación política y social", "La situación política y social en Venezuela", "La situación política y social en Venezuela permanece estancada,", "La situación política y social en Venezuela permanece estancada, pero", "La situación política y social en Venezuela permanece estancada, pero se siguen produciendo"],
-    "sentencesEng": ["The political and social situation", "The political and social situation in Venezuela", "The political and social situation in Venezuela remains stagnant,", "The political and social situation in Venezuela remains stagnant, but", "The political and social situation in Venezuela remains stagnant, but there continue to be"]
-},
-{
-    "sentencesSpa": ["La situación política y social", "La situación política y social en Venezuela", "La situación política y social en Venezuela permanece estancada,", "La situación política y social en Venezuela permanece estancada, pero", "La situación política y social en Venezuela permanece estancada, pero se siguen produciendo"],
-    "sentencesEng": ["The political and social situation", "The political and social situation in Venezuela", "The political and social situation in Venezuela remains stagnant,", "The political and social situation in Venezuela remains stagnant, but", "The political and social situation in Venezuela remains stagnant, but there continue to be"]
-},
-{
-    "sentencesSpa": ["La situación política y social", "La situación política y social en Venezuela", "La situación política y social en el culo de Ana permanece un problema,", "La situación política y social en Venezuela permanece estancada, pero", "La situación política y social en Venezuela permanece estancada, pero se siguen produciendo"],
-    "sentencesEng": ["The political and social situation", "The political and social situation in Venezuela", "The political and social situation in Venezuela remains stagnant,", "The political and social situation in Venezuela remains stagnant, but", "The political and social situation in Venezuela remains stagnant, but there continue to be"]
-}
+    {
+        "sentencesSpa": ["Estoy enfermo", "Estoy enfermo y no puedo salir,", "Estoy enfermo y no puedo salir, ¿vas a", "Estoy enfermo y no puedo salir, ¿vas a venir", "Estoy enfermo y no puedo salir, ¿vas a venir a verme?"],
+        "sentencesEng": ["I am sick", "I am sick and I can't go out,", "I am sick and I can't go out, are you going to", "I am sick and I can't go out, are you going to come", "I am sick and I can't go out, are you going to come to see me?"]
+    },
+    {
+        "sentencesSpa": ["Vas a vivir", "Vas a vivir en España,", "Vas a vivir en España, pero", "Vas a vivir en España, pero no hablas", "Vas a vivir en España, pero no hablas español."],
+        "sentencesEng": ["You're going to live", "You're going to live in Spain,", "You're going to live in Spain, but", "You're going to live in Spain, but you don't speak", "You're going to live in Spain, but you don't speak Spanish."]
+    },
+    {
+        "sentencesSpa": ["Esta noche voy", "Esta noche voy a una discoteca,", "Esta noche voy a una discoteca, ¿quieres", "Esta noche voy a una discoteca, ¿quieres venir", "Esta noche voy a una discoteca, ¿quieres venir conmigo?"],
+        "sentencesEng": ["Tonight I'm going", "Tonight I'm going to a nightclub,", "Tonight I'm going to a nightclub, do you want", "Tonight I'm going to a nightclub, do you want to come", "Tonight I'm going to a nightclub, do you want to come with me?"]
+    },
+    {
+        "sentencesSpa": ["No sé si voy", "No sé si voy a comprarlo,", "No sé si voy a comprarlo, es", "No sé si voy a comprarlo, es demasiado caro", "No sé si voy a comprarlo, es demasiado caro para mí."],
+        "sentencesEng": ["I don't know if I'm going", "I don't know if I'm going to buy it,", "I don't know if I'm going to buy it, it's", "I don't know if I'm going to buy it, it's too expensive", "I don't know if I'm going to buy it, it's too expensive for me."]
+    },
+    {
+        "sentencesSpa": ["Quieres practicar", "Quieres practicar conmigo,", "Quieres practicar conmigo, pero", "Quieres practicar conmigo, pero estás ocupado", "Quieres practicar conmigo, pero estás ocupado todos los días."],
+        "sentencesEng": ["You want to practice", "You want to practice with me,", "You want to practice with me, but", "You want to practice with me, but you're busy", "You want to practice with me, but you're busy every day."]
+    },
+    {
+        "sentencesSpa": ["Quiero verte", "Quiero verte mañana,", "Quiero verte mañana, pero", "Quiero verte mañana, pero si estás preocupado,", "Quiero verte mañana, pero si estás preocupado, puedo venir el sábado"],
+        "sentencesEng": ["I want to see you", "I want to see you tomorrow,", "I want to see you tomorrow, but", "I want to see you tomorrow, but if you're worried,", "I want to see you tomorrow, but if you're worried, I can come on Saturday"]
+    },
+    {
+        "sentencesSpa": ["Si no puedes bañarte,", "Si no puedes bañarte, tienes", "Si no puedes bañarte, tienes que", "Si no puedes bañarte, tienes que ducharte."],
+        "sentencesEng": ["If you can't bathe,", "If you can't bathe, you have", "If you can't bathe, you have to", "If you can't bathe, you have to take a shower."]
+    },
+    {
+        "sentencesSpa": ["Me encanta el frío,", "Me encanta el frío, pero", "Me encanta el frío, pero sé", "Me encanta el frío, pero sé que es", "Me encanta el frío, pero sé que es horrible para ti."],
+        "sentencesEng": ["I love the cold,", "I love the cold, but", "I love the cold, but I know", "I love the cold, but I know it's", "I love the cold, but I know it's horrible for you."]
+    },
+    {
+        "sentencesSpa": ["Tengo un perro,", "Tengo un perro, es diferente,", "Tengo un perro, es diferente, pero", "Tengo un perro, es diferente, pero es importante para mí", "Tengo un perro, es diferente, pero es importante para mí porque es adorable."],
+        "sentencesEng": ["I have a dog,", "I have a dog, it's different,", "I have a dog, it's different, but", "I have a dog, it's different, but it's important to me", "I have a dog, it's different, but it's important to me because it's adorable."]
+    },
+    {
+        "sentencesSpa": ["Hoy quiero comprar", "Hoy quiero comprar algo", "Hoy quiero comprar algo para la fiesta,", "Hoy quiero comprar algo para la fiesta, pero", "Hoy quiero comprar algo para la fiesta, pero no sé si tengo", "Hoy quiero comprar algo para la fiesta, pero no sé si tengo suficiente dinero."],
+        "sentencesEng": ["Today I want to buy", "Today I want to buy something", "Today I want to buy something for the party,", "Today I want to buy something for the party, but", "Today I want to buy something for the party, but I don't know if I have", "Today I want to buy something for the party, but I don't know if I have enough money."]
+    }
 ]
