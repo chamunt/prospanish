@@ -1,0 +1,152 @@
+[
+    {
+        "sentencesSpa": [
+            "No es",
+            "No es muy tradicional",
+            "No es muy tradicional, pero",
+            "No es muy tradicional, pero quiero comprarlo",
+            "No es muy tradicional, pero quiero comprarlo para",
+            "No es muy tradicional, pero quiero comprarlo para María"
+        ],
+        "sentencesEng": [
+            "It is not",
+            "It is not very traditional",
+            "It is not very traditional, but",
+            "It is not very traditional, but I want to buy it",
+            "It is not very traditional, but I want to buy it for",
+            "It is not very traditional, but I want to buy it for Maria"
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "Pedro puede",
+            "Pedro puede venir",
+            "Pedro puede venir a la fiesta",
+            "Pedro puede venir a la fiesta conmigo",
+            "Pedro puede venir a la fiesta conmigo esta noche",
+            "Pedro puede venir a la fiesta conmigo esta noche si quiere"
+        ],
+        "sentencesEng": [
+            "Pedro can",
+            "Pedro can come",
+            "Pedro can come to the party",
+            "Pedro can come to the party with me",
+            "Pedro can come to the party with me tonight",
+            "Pedro can come to the party with me tonight if he wants"
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "Sara sale con Pablo",
+            "Sara sale con Pablo, pero",
+            "Sara sale con Pablo, pero sé que",
+            "Sara sale con Pablo, pero sé que quiere",
+            "Sara sale con Pablo, pero sé que quiere salir",
+            "Sara sale con Pablo, pero sé que quiere salir conmigo"
+        ],
+        "sentencesEng": [
+            "Sara is dating Pablo",
+            "Sara is dating Pablo, but",
+            "Sara is dating Pablo, but I know that",
+            "Sara is dating Pablo, but I know that she wants",
+            "Sara is dating Pablo, but I know that she wants to date",
+            "Sara is dating Pablo, but I know that she wants to date me"
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "No sé",
+            "No sé si mi hermana",
+            "No sé si mi hermana va a venir",
+            "No sé si mi hermana va a venir a la fiesta",
+            "No sé si mi hermana va a venir a la fiesta esta noche"
+        ],
+        "sentencesEng": [
+            "I don't know",
+            "I don't know if my sister",
+            "I don't know if my sister is going to come",
+            "I don't know if my sister is going to come to the party",
+            "I don't know if my sister is going to come to the party tonight"
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "Miguel quiere verte",
+            "Miguel quiere verte más tarde",
+            "Miguel quiere verte más tarde, tiene algo",
+            "Miguel quiere verte más tarde, tiene algo importante",
+            "Miguel quiere verte más tarde, tiene algo importante que decirte"
+        ],
+        "sentencesEng": [
+            "Miguel wants to see you",
+            "Miguel wants to see you later",
+            "Miguel wants to see you later, he has something",
+            "Miguel wants to see you later, he has something important",
+            "Miguel wants to see you later, he has something important to tell you"
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "Voy a lavar",
+            "Voy a lavar el coche",
+            "Voy a lavar el coche mañana",
+            "Voy a lavar el coche mañana porque",
+            "Voy a lavar el coche mañana porque tengo una competición"
+        ],
+        "sentencesEng": [
+            "I'm going to wash",
+            "I'm going to wash the car",
+            "I'm going to wash the car tomorrow",
+            "I'm going to wash the car tomorrow because",
+            "I'm going to wash the car tomorrow because I have a competition"
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "Si tienes que trabajar",
+            "Si tienes que trabajar ahora",
+            "Si tienes que trabajar ahora, puedes",
+            "Si tienes que trabajar ahora, puedes ducharte",
+            "Si tienes que trabajar ahora, puedes ducharte mañana"
+        ],
+        "sentencesEng": [
+            "If you have to work",
+            "If you have to work now",
+            "If you have to work now, you can",
+            "If you have to work now, you can take a shower",
+            "If you have to work now, you can take a shower tomorrow"
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "Ayer no hice mucho",
+            "Ayer no hice mucho porque",
+            "Ayer no hice mucho porque tuve que",
+            "Ayer no hice mucho porque tuve que quedarme en casa",
+            "Ayer no hice mucho porque tuve que quedarme en casa con Carmen"
+        ],
+        "sentencesEng": [
+            "Yesterday I didn't do much",
+            "Yesterday I didn't do much because",
+            "Yesterday I didn't do much because I had to",
+            "Yesterday I didn't do much because I had to stay home",
+            "Yesterday I didn't do much because I had to stay home with Carmen"
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "Pienso que Juan",
+            "Pienso que Juan y esa chica",
+            "Pienso que Juan y esa chica simpática",
+            "Pienso que Juan y esa chica simpática van a venir",
+            "Pienso que Juan y esa chica simpática van a venir mañana"
+        ],
+        "sentencesEng": [
+            "I think that Juan",
+            "I think that Juan and that girl",
+            "I think that Juan and that nice girl",
+            "I think that Juan and that nice girl are going to come",
+            "I think that Juan and that nice girl are going to come tomorrow"
+        ]
+    }
+]
