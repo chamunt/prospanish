@@ -1,0 +1,6 @@
+[
+    {
+        "sentencesTur": ["Dün", "Dün pek", "Dün pek bir şey", "Dün pek bir şey yapmadım", "Dün pek bir şey yapmadım çünkü", "Dün pek bir şey yapmadım çünkü Carmen'le", "Dün pek bir şey yapmadım çünkü Carmen'le evde", "Dün pek bir şey yapmadım çünkü Carmen'le evde kalmak", "Dün pek bir şey yapmadım çünkü Carmen'le evde kalmak zorundaydım."],
+        "sentencesEng": ["Yesterday", "Yesterday not much", "Yesterday not much of anything", "Yesterday I didn't do much of anything", "Yesterday I didn't do much of anything because", "Yesterday I didn't do much of anything because I had to stay", "Yesterday I didn't do much of anything because I had to stay at home", "Yesterday I didn't do much of anything because I had to stay at home with Carmen", "Yesterday I didn't do much of anything because I had to stay at home with Carmen."]
+    }
+]
