@@ -1,4 +1,24 @@
+[
     {
-        "sentencesSpa": [ "Im Juni kündigte die Berliner Stadtverwaltung", "Im Juni kündigte die Berliner Stadtverwaltung einen fünfjährigen Stopp der Mieterhöhungen an", "Im Juni kündigte die Berliner Stadtverwaltung einen fünfjährigen Stopp der Mieterhöhungen an, doch Wohnungsbauaktivisten",            "Im Juni kündigte die Berliner Stadtverwaltung einen fünfjährigen Stopp der Mieterhöhungen an, doch Wohnungsbauaktivisten sind nach wie vor skeptisch", "Im Juni kündigte die Berliner Stadtverwaltung einen fünfjährigen Stopp der Mieterhöhungen an, doch Wohnungsbauaktivisten sind nach wie vor skeptisch, was seine Wirksamkeit betrifft."],
-        "sentencesEng": [" "In June, the Berlin city administration announced", "In June, the Berlin city administration announced a five-year freeze on rent increases", “In June, the Berlin city administration announced a five-year freeze on rent increases, but housing construction activists",            "In June, the Berlin city administration announced a five-year freeze on rent increases, but housing construction activists remain sceptical",  "In June, the Berlin city administration announced a five-year freeze on rent increases, but housing construction activists remain sceptical about its effectiveness."]
+        "sentencesGer": [
+            "Im Juni",
+            "Im Juni kündigte die",
+            "Im Juni kündigte die Berliner Stadtverwaltung",
+            "Im Juni kündigte die Berliner Stadtverwaltung einen fünfjährigen Stopp der",
+            "Im Juni kündigte die Berliner Stadtverwaltung einen fünfjährigen Stopp der Mieterhöhungen an,",
+            "Im Juni kündigte die Berliner Stadtverwaltung einen fünfjährigen Stopp der Mieterhöhungen an, doch Wohnungsbauaktivisten",
+            "Im Juni kündigte die Berliner Stadtverwaltung einen fünfjährigen Stopp der Mieterhöhungen an, doch Wohnungsbauaktivisten sind nach wie vor skeptisch,",
+            "Im Juni kündigte die Berliner Stadtverwaltung einen fünfjährigen Stopp der Mieterhöhungen an, doch Wohnungsbauaktivisten sind nach wie vor skeptisch, was seine Wirksamkeit betrifft."
+        ],
+        "sentencesEng": [
+            "In June",
+            "In June, the",
+            "In June, the Berlin city administration announced",
+            "In June, the Berlin city administration announced a five-year halt of",
+            "In June, the Berlin city administration announced a five-year halt of rent increases,",
+            "In June, the Berlin city administration announced a five-year halt of rent increases, but housing construction activists",
+            "In June, the Berlin city administration announced a five-year halt of rent increases, but housing construction activists remain skeptical,",
+            "In June, the Berlin city administration announced a five-year halt of rent increases, but housing construction activists remain skeptical about its effectiveness."
+        ]
     }
+]
