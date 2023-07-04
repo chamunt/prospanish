@@ -1,5 +1,5 @@
-{
-  "sentencesGer": [
+    {
+        "sentencesSpa": [
     "Im Juni",
     "Im Juni kündigte die",
     "Im Juni kündigte die Berliner Stadtverwaltung",
@@ -19,4 +19,5 @@
     "In June, the Berlin city administration announced a five-year halt of rent increases, but housing construction activists remain skeptical,",
     "In June, the Berlin city administration announced a five-year halt of rent increases, but housing construction activists remain skeptical about its effectiveness."
   ]
-}
+    }
+
