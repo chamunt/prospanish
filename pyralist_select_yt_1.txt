@@ -48,13 +48,13 @@
             "Podemos quedar contigo mañana, si no tengo que practicar el piano después de clase."
         ],
         "sentencesEng": [
-            "We can meet with you",
-            "We can meet with you tomorrow,",
-            "We can meet with you tomorrow, if not",
-            "We can meet with you tomorrow, if I don't have to",
-            "We can meet with you tomorrow, if I don't have to practice",
-            "We can meet with you tomorrow, if I don't have to practice the piano",
-            "We can meet with you tomorrow, if I don't have to practice the piano after class."
+            "We can meet with up you",
+            "We can meet with up you tomorrow,",
+            "We can meet with up you tomorrow, if not",
+            "We can meet with up you tomorrow, if I don't have to",
+            "We can meet with up you tomorrow, if I don't have to practice",
+            "We can meet with up you tomorrow, if I don't have to practice the piano",
+            "We can meet with up you tomorrow, if I don't have to practice the piano after class."
         ]
     },
     {
@@ -107,12 +107,12 @@
         ],
         "sentencesEng": [
             "I don't know if",
-            "I don't know if I can meet",
-            "I don't know if I can meet with him,",
-            "I don't know if I can meet with him, because",
-            "I don't know if I can meet with him, because after class",
-            "I don't know if I can meet with him, because after class I have to",
-            "I don't know if I can meet with him, because after class I have to pick something up."
+            "I don't know if I can meet up",
+            "I don't know if I can meet up with him,",
+            "I don't know if I can meet up with him, because",
+            "I don't know if I can meet up with him, because after class",
+            "I don't know if I can meet up with him, because after class I have to",
+            "I don't know if I can meet up with him, because after class I have to pick something up."
         ]
     },
     {
