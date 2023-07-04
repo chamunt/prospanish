@@ -1,6 +1,6 @@
 [
     {
-        "sentencesGer": [
+        "sentencesSpa": [
             "Im Juni",
             "Im Juni kündigte die",
             "Im Juni kündigte die Berliner Stadtverwaltung",
