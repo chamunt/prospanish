@@ -1,0 +1,194 @@
+[
+    {
+        "sentencesSpa": [
+            "No sé si",
+            "No sé si puedo salir",
+            "No sé si puedo salir contigo hoy,",
+            "No sé si puedo salir contigo hoy, porque",
+            "No sé si puedo salir contigo hoy, porque tengo que",
+            "No sé si puedo salir contigo hoy, porque tengo que recoger algo",
+            "No sé si puedo salir contigo hoy, porque tengo que recoger algo después de clase."
+        ],
+        "sentencesEng": [
+            "I don't know if",
+            "I don't know if I can go out",
+            "I don't know if I can go out with you today,",
+            "I don't know if I can go out with you today, because",
+            "I don't know if I can go out with you today, because I have to",
+            "I don't know if I can go out with you today, because I have to pick something up",
+            "I don't know if I can go out with you today, because I have to pick something up after class."
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "No estoy seguro si",
+            "No estoy seguro si podemos practicar",
+            "No estoy seguro si podemos practicar contigo mañana,",
+            "No estoy seguro si podemos practicar contigo mañana, porque",
+            "No estoy seguro si podemos practicar contigo mañana, porque tengo que",
+            "No estoy seguro si podemos practicar contigo mañana, porque tengo que organizar algo."
+        ],
+        "sentencesEng": [
+            "I'm not sure if",
+            "I'm not sure if we can practice",
+            "I'm not sure if we can practice with you tomorrow,",
+            "I'm not sure if we can practice with you tomorrow, because",
+            "I'm not sure if we can practice with you tomorrow, because I have to",
+            "I'm not sure if we can practice with you tomorrow, because I have to organize something."
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "Podemos quedar contigo",
+            "Podemos quedar contigo mañana,",
+            "Podemos quedar contigo mañana, si no",
+            "Podemos quedar contigo mañana, si no tengo que",
+            "Podemos quedar contigo mañana, si no tengo que practicar",
+            "Podemos quedar contigo mañana, si no tengo que practicar el piano",
+            "Podemos quedar contigo mañana, si no tengo que practicar el piano después de clase."
+        ],
+        "sentencesEng": [
+            "We can meet with you",
+            "We can meet with you tomorrow,",
+            "We can meet with you tomorrow, if not",
+            "We can meet with you tomorrow, if I don't have to",
+            "We can meet with you tomorrow, if I don't have to practice",
+            "We can meet with you tomorrow, if I don't have to practice the piano",
+            "We can meet with you tomorrow, if I don't have to practice the piano after class."
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "No sé si",
+            "No sé si podemos ir",
+            "No sé si podemos ir contigo,",
+            "No sé si podemos ir contigo, porque",
+            "No sé si podemos ir contigo, porque tengo que",
+            "No sé si podemos ir contigo, porque tengo que terminar algo."
+        ],
+        "sentencesEng": [
+            "I don't know if",
+            "I don't know if we can go",
+            "I don't know if we can go with you,",
+            "I don't know if we can go with you, because",
+            "I don't know if we can go with you, because I have to",
+            "I don't know if we can go with you, because I have to finish something."
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "Después de clase,",
+            "Después de clase, no estoy seguro si",
+            "Después de clase, no estoy seguro si puedo cenar",
+            "Después de clase, no estoy seguro si puedo cenar contigo,",
+            "Después de clase, no estoy seguro si puedo cenar contigo, porque",
+            "Después de clase, no estoy seguro si puedo cenar contigo, porque tengo que",
+            "Después de clase, no estoy seguro si puedo cenar contigo, porque tengo que hacer algo."
+        ],
+        "sentencesEng": [
+            "After class,",
+            "After class, I'm not sure if",
+            "After class, I'm not sure if I can have dinner",
+            "After class, I'm not sure if I can have dinner with you,",
+            "After class, I'm not sure if I can have dinner with you, because",
+            "After class, I'm not sure if I can have dinner with you, because I have to",
+            "After class, I'm not sure if I can have dinner with you, because I have to do something."
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "No sé si",
+            "No sé si puedo quedar",
+            "No sé si puedo quedar con él,",
+            "No sé si puedo quedar con él, porque",
+            "No sé si puedo quedar con él, porque después de clase",
+            "No sé si puedo quedar con él, porque después de clase tengo que",
+            "No sé si puedo quedar con él, porque después de clase tengo que recoger algo."
+        ],
+        "sentencesEng": [
+            "I don't know if",
+            "I don't know if I can meet",
+            "I don't know if I can meet with him,",
+            "I don't know if I can meet with him, because",
+            "I don't know if I can meet with him, because after class",
+            "I don't know if I can meet with him, because after class I have to",
+            "I don't know if I can meet with him, because after class I have to pick something up."
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "Podemos salir contigo",
+            "Podemos salir contigo hoy,",
+            "Podemos salir contigo hoy, si no",
+            "Podemos salir contigo hoy, si no tengo que",
+            "Podemos salir contigo hoy, si no tengo que organizar",
+            "Podemos salir contigo hoy, si no tengo que organizar algo",
+            "Podemos salir contigo hoy, si no tengo que organizar algo después de clase."
+        ],
+        "sentencesEng": [
+            "We can go out with you",
+            "We can go out with you today,",
+            "We can go out with you today, if not",
+            "We can go out with you today, if I don't have to",
+            "We can go out with you today, if I don't have to organize",
+            "We can go out with you today, if I don't have to organize something",
+            "We can go out with you today, if I don't have to organize something after class."
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "No estoy seguro si",
+            "No estoy seguro si puedo practicar",
+            "No estoy seguro si puedo practicar contigo mañana,",
+            "No estoy seguro si puedo practicar contigo mañana, porque",
+            "No estoy seguro si puedo practicar contigo mañana, porque tengo que",
+            "No estoy seguro si puedo practicar contigo mañana, porque tengo que terminar algo."
+        ],
+        "sentencesEng": [
+            "I'm not sure if",
+            "I'm not sure if I can practice",
+            "I'm not sure if I can practice with you tomorrow,",
+            "I'm not sure if I can practice with you tomorrow, because",
+            "I'm not sure if I can practice with you tomorrow, because I have to",
+            "I'm not sure if I can practice with you tomorrow, because I have to finish something."
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "Después de clase,",
+            "Después de clase, podemos ir",
+            "Después de clase, podemos ir contigo,",
+            "Después de clase, podemos ir contigo, si no",
+            "Después de clase, podemos ir contigo, si no tengo que",
+            "Después de clase, podemos ir contigo, si no tengo que hacer tenis."
+        ],
+        "sentencesEng": [
+            "After class,",
+            "After class, we can go",
+            "After class, we can go with you,",
+            "After class, we can go with you, if not",
+            "After class, we can go with you, if I don't have to",
+            "After class, we can go with you, if I don't have to play tennis."
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "No sé si",
+            "No sé si puedo cenar",
+            "No sé si puedo cenar contigo,",
+            "No sé si puedo cenar contigo, porque",
+            "No sé si puedo cenar contigo, porque después de clase",
+            "No sé si puedo cenar contigo, porque después de clase tengo que",
+            "No sé si puedo cenar contigo, porque después de clase tengo que recoger algo."
+        ],
+        "sentencesEng": [
+            "I don't know if",
+            "I don't know if I can have dinner",
+            "I don't know if I can have dinner with you,",
+            "I don't know if I can have dinner with you, because",
+            "I don't know if I can have dinner with you, because after class",
+            "I don't know if I can have dinner with you, because after class I have to",
+            "I don't know if I can have dinner with you, because after class I have to pick something up."
+        ]
+    }
+]
