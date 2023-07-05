@@ -1,1 +1,61 @@
+[
+    {
+        "sentencesSpa": [
+            "No creo que",
+            "No creo que pueda practicar",
+            "No creo que pueda practicar contigo mañana,",
+            "No creo que pueda practicar contigo mañana, porque",
+            "No creo que pueda practicar contigo mañana, porque tengo que",
+            "No creo que pueda practicar contigo mañana, porque tengo que organizar algo."
+        ],
+        "sentencesEng": [
+            "I don't think that",
+            "I don't think that I can practice",
+            "I don't think that I can practice with you tomorrow,",
+            "I don't think that I can practice with you tomorrow, because",
+            "I don't think that I can practice with you tomorrow, because I have to",
+            "I don't think that I can practice with you tomorrow, because I have to organize something."
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "Dudo que",
+            "Dudo que pueda practicar",
+            "Dudo que pueda practicar contigo mañana,",
+            "Dudo que pueda practicar contigo mañana, porque",
+            "Dudo que pueda practicar contigo mañana, porque tengo que",
+            "Dudo que pueda practicar contigo mañana, porque tengo que terminar algo",
+            "Dudo que pueda practicar contigo mañana, porque tengo que terminar algo después de clase."
+        ],
+        "sentencesEng": [
+            "I doubt that",
+            "I doubt that I can practice",
+            "I doubt that I can practice with you tomorrow,",
+            "I doubt that I can practice with you tomorrow, because",
+            "I doubt that I can practice with you tomorrow, because I have to",
+            "I doubt that I can practice with you tomorrow, because I have to finish something",
+            "I doubt that I can practice with you tomorrow, because I have to finish something after class."
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "No creo que",
+            "No creo que podamos cenar",
+            "No creo que podamos cenar contigo,",
+            "No creo que podamos cenar contigo, porque",
+            "No creo que podamos cenar contigo, porque después de clase",
+            "No creo que podamos cenar contigo, porque después de clase tenemos que",
+            "No creo que podamos cenar contigo, porque después de clase tenemos que recoger algo."
+        ],
+        "sentencesEng": [
+            "I don't think that",
+            "I don't think that we can have dinner",
+            "I don't think that we can have dinner with you,",
+            "I don't think that we can have dinner with you, because",
+            "I don't think that we can have dinner with you, because after class",
+            "I don't think that we can have dinner with you, because after class we have to",
+            "I don't think that we can have dinner with you, because after class we have to pick something up."
+        ]
+    }
+]
 
