@@ -1,0 +1,76 @@
+[
+    {
+        "sentencesSpa": [
+            "Si quieres",
+            "Si quieres comer",
+            "Si quieres comer algo hoy,",
+            "Si quieres comer algo hoy, puedo",
+            "Si quieres comer algo hoy, puedo comprarlo",
+            "Si quieres comer algo hoy, puedo comprarlo para ti."
+        ],
+        "sentencesEng": [
+            "If you want",
+            "If you want to eat",
+            "If you want to eat something today,",
+            "If you want to eat something today, I can",
+            "If you want to eat something today, I can buy it",
+            "If you want to eat something today, I can buy it for you."
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "Tengo",
+            "Tengo una invitación",
+            "Tengo una invitación para hoy,",
+            "Tengo una invitación para hoy, ¿tienes una?"
+        ],
+        "sentencesEng": [
+            "I have",
+            "I have an invitation",
+            "I have an invitation for today,",
+            "I have an invitation for today, do you have one?"
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "¿Puedo",
+            "¿Puedo hacerlo hoy?",
+            "¿Puedo hacerlo hoy? Es importante",
+            "¿Puedo hacerlo hoy? Es importante para mí."
+        ],
+        "sentencesEng": [
+            "Can I",
+            "Can I do it today?",
+            "Can I do it today? It's important",
+            "Can I do it today? It's important to me."
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "Si tengo",
+            "Si tengo la oportunidad,",
+            "Si tengo la oportunidad, quiero comer",
+            "Si tengo la oportunidad, quiero comer paella."
+        ],
+        "sentencesEng": [
+            "If I have",
+            "If I have the opportunity,",
+            "If I have the opportunity, I want to eat",
+            "If I have the opportunity, I want to eat paella."
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "Si",
+            "Si no tengo",
+            "Si no tengo una invitación,",
+            "Si no tengo una invitación, ¿qué quieres hacer?"
+        ],
+        "sentencesEng": [
+            "If",
+            "If I don't have",
+            "If I don't have an invitation,",
+            "If I don't have an invitation, what do you want to do?"
+        ]
+    }
+]
