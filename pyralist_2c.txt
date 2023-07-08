@@ -1,0 +1,42 @@
+[
+    {
+        "sentencesSpa": ["Quiero", "Quiero saber", "Quiero saber dónde", "Quiero saber dónde has estado", "Quiero saber dónde has estado - Enrique está muy enfadado."],
+        "sentencesEng": ["I want", "I want to know", "I want to know where", "I want to know where you have been", "I want to know where you have been - Enrique is very angry."]
+    },
+    {
+        "sentencesSpa": ["Ayer,", "Ayer, tuve que", "Ayer, tuve que volar a Francia", "Ayer, tuve que volar a Francia para una conferencia,", "Ayer, tuve que volar a Francia para una conferencia, fue muy interesante."],
+        "sentencesEng": ["Yesterday,", "Yesterday, I had to", "Yesterday, I had to fly to France", "Yesterday, I had to fly to France for a conference,", "Yesterday, I had to fly to France for a conference, it was very interesting."]
+    },
+    {
+        "sentencesSpa": ["Sabemos que", "Sabemos que es difícil,", "Sabemos que es difícil, pero es", "Sabemos que es difícil, pero es más fácil", "Sabemos que es difícil, pero es más fácil si", "Sabemos que es difícil, pero es más fácil si lo haces", "Sabemos que es difícil, pero es más fácil si lo haces con pasión."],
+        "sentencesEng": ["We know that", "We know that it's hard,", "We know that it's hard, but it's", "We know that it's hard, but it's easier", "We know that it's hard, but it's easier if", "We know that it's hard, but it's easier if you do it", "We know that it's hard, but it's easier if you do it with passion."]
+    },
+    {
+        "sentencesSpa": ["Supongo que", "Supongo que ya lo has vendido,", "Supongo que ya lo has vendido, pero si no,", "Supongo que ya lo has vendido, pero si no, lo quiero."],
+        "sentencesEng": ["I suppose", "I suppose you've already sold it,", "I suppose you've already sold it, but if not,", "I suppose you've already sold it, but if not, I want it."]
+    },
+    {
+        "sentencesSpa": ["Esa noche,", "Esa noche, Miguel habló", "Esa noche, Miguel habló con una chica simpática", "Esa noche, Miguel habló con una chica simpática en la fiesta."],
+        "sentencesEng": ["That night,", "That night, Miguel spoke", "That night, Miguel spoke with a nice girl", "That night, Miguel spoke with a nice girl at the party."]
+    },
+    {
+        "sentencesSpa": ["Si", "Si tienes frío,", "Si tienes frío, puedo", "Si tienes frío, puedo darte", "Si tienes frío, puedo darte mi jersey."],
+        "sentencesEng": ["If", "If you're cold,", "If you're cold, I can", "If you're cold, I can give", "If you're cold, I can give you my sweater."]
+    },
+    {
+        "sentencesSpa": ["He pedido", "He pedido tapas", "He pedido tapas y cerveza", "He pedido tapas y cerveza para todos."],
+        "sentencesEng": ["I've ordered", "I've ordered tapas", "I've ordered tapas and beer", "I've ordered tapas and beer for everyone."]
+    },
+    {
+        "sentencesSpa": ["He encontrado", "He encontrado algo interesante,", "He encontrado algo interesante, ¿quieres verlo?"],
+        "sentencesEng": ["I've found", "I've found something interesting,", "I've found something interesting, do you want to see it?"]
+    },
+    {
+        "sentencesSpa": ["Me gustaría", "Me gustaría ir a España", "Me gustaría ir a España en verano,", "Me gustaría ir a España en verano, pero no tengo", "Me gustaría ir a España en verano, pero no tengo suficiente dinero."],
+        "sentencesEng": ["I would like", "I would like to go to Spain", "I would like to go to Spain in the summer,", "I would like to go to Spain in the summer, but I don't have", "I would like to go to Spain in the summer, but I don't have enough money."]
+    },
+    {
+        "sentencesSpa": ["No lo he probado,", "No lo he probado, así que", "No lo he probado, así que no sé", "No lo he probado, así que no sé si quiero", "No lo he probado, así que no sé si quiero comprarlo."],
+        "sentencesEng": ["I haven't tried it,", "I haven't tried it, so", "I haven't tried it, so I don't know", "I haven't tried it, so I don't know if I want", "I haven't tried it, so I don't know if I want to buy it."]
+    }
+]
