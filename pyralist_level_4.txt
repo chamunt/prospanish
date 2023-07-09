@@ -1,0 +1,42 @@
+[
+    {
+        "sentencesSpa": ["Mi marido", "Mi marido está jubilado", "Mi marido está jubilado y ahora siempre", "Mi marido está jubilado y ahora siempre pasa mucho tiempo", "Mi marido está jubilado y ahora siempre pasa mucho tiempo en el jardín."],
+        "sentencesEng": ["My husband", "My husband is retired", "My husband is retired and now he always", "My husband is retired and now he always spends a lot of time", "My husband is retired and now he always spends a lot of time in the garden."]
+    },
+    {
+        "sentencesSpa": ["Está casado,", "Está casado, tiene los ojos azules", "Está casado, tiene los ojos azules y vive", "Está casado, tiene los ojos azules y vive en un pueblo", "Está casado, tiene los ojos azules y vive en un pueblo no muy lejos de aquí."],
+        "sentencesEng": ["He is married,", "He is married, has blue eyes", "He is married, has blue eyes and lives", "He is married, has blue eyes and lives in a village", "He is married, has blue eyes and lives in a village not far from here."]
+    },
+    {
+        "sentencesSpa": ["Tengo ochenta años", "Tengo ochenta años y", "Tengo ochenta años y ya no me gusta", "Tengo ochenta años y ya no me gusta ir a discotecas."],
+        "sentencesEng": ["I am eighty years old", "I am eighty years old and", "I am eighty years old and I no longer like", "I am eighty years old and I no longer like going to discos."]
+    },
+    {
+        "sentencesSpa": ["Está divorciado", "Está divorciado y vive solo", "Está divorciado y vive solo en el campo", "Está divorciado y vive solo en el campo con sus perros."],
+        "sentencesEng": ["He is divorced", "He is divorced and lives alone", "He is divorced and lives alone in the countryside", "He is divorced and lives alone in the countryside with his dogs."]
+    },
+    {
+        "sentencesSpa": ["Ahora hace frío", "Ahora hace frío en Alemania,", "Ahora hace frío en Alemania, así que", "Ahora hace frío en Alemania, así que no pasamos mucho tiempo", "Ahora hace frío en Alemania, así que no pasamos mucho tiempo en el jardín."],
+        "sentencesEng": ["It is now cold", "It is now cold in Germany,", "It is now cold in Germany, so", "It is now cold in Germany, so we don't spend a lot of time", "It is now cold in Germany, so we don't spend a lot of time in the garden."]
+    },
+    {
+        "sentencesSpa": ["El hotel está a cinco minutos", "El hotel está a cinco minutos de la playa,", "El hotel está a cinco minutos de la playa, así que", "El hotel está a cinco minutos de la playa, así que podemos jugar allí", "El hotel está a cinco minutos de la playa, así que podemos jugar allí todos los días."],
+        "sentencesEng": ["The hotel is five minutes", "The hotel is five minutes from the beach,", "The hotel is five minutes from the beach, so", "The hotel is five minutes from the beach, so we can play there", "The hotel is five minutes from the beach, so we can play there every day."]
+    },
+    {
+        "sentencesSpa": ["Cuando estaba en la universidad,", "Cuando estaba en la universidad, tenía un amigo", "Cuando estaba en la universidad, tenía un amigo que vivía", "Cuando estaba en la universidad, tenía un amigo que vivía en una mansión."],
+        "sentencesEng": ["When I was at university,", "When I was at university, I had a friend", "When I was at university, I had a friend who lived", "When I was at university, I had a friend who lived in a mansion."]
+    },
+    {
+        "sentencesSpa": ["La piscina del hotel", "La piscina del hotel está sucia", "La piscina del hotel está sucia y siempre está nublado,", "La piscina del hotel está sucia y siempre está nublado, así que", "La piscina del hotel está sucia y siempre está nublado, así que queremos volver a casa."],
+        "sentencesEng": ["The hotel's swimming pool", "The hotel's swimming pool is dirty", "The hotel's swimming pool is dirty and it's always cloudy,", "The hotel's swimming pool is dirty and it's always cloudy, so", "The hotel's swimming pool is dirty and it's always cloudy, so we want to go home."]
+    },
+    {
+        "sentencesSpa": ["El tren sale", "El tren sale a las seis,", "El tren sale a las seis, pero no sé", "El tren sale a las seis, pero no sé a qué hora", "El tren sale a las seis, pero no sé a qué hora llega."],
+        "sentencesEng": ["The train leaves", "The train leaves at six,", "The train leaves at six, but I don't know", "The train leaves at six, but I don't know at what time", "The train leaves at six, but I don't know at what time it arrives."]
+    },
+    {
+        "sentencesSpa": ["¿Cuánto cuesta", "¿Cuánto cuesta un billete de ida y vuelta", "¿Cuánto cuesta un billete de ida y vuelta a Valencia?"],
+        "sentencesEng": ["How much does it cost", "How much does it cost a round trip ticket", "How much does it cost a round trip ticket to Valencia?"]
+    }
+]
