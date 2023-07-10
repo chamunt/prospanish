@@ -1,0 +1,42 @@
+[
+    {
+        "sentencesSpa": ["Antes de ir", "Antes de ir a la reunión,", "Antes de ir a la reunión, tienes que practicar", "Antes de ir a la reunión, tienes que practicar cómo hablar", "Antes de ir a la reunión, tienes que practicar cómo hablar en público."],
+        "sentencesEng": ["Before going", "Before going to the meeting,", "Before going to the meeting, you need to practice", "Before going to the meeting, you need to practice how to speak", "Before going to the meeting, you need to practice how to speak in public."]
+    },
+    {
+        "sentencesSpa": ["Todos los días", "Todos los días conduzco", "Todos los días conduzco al trabajo", "Todos los días conduzco al trabajo en vez de ir", "Todos los días conduzco al trabajo en vez de ir en autobús."],
+        "sentencesEng": ["Every day", "Every day I drive", "Every day I drive to work", "Every day I drive to work instead of going", "Every day I drive to work instead of going by bus."]
+    },
+    {
+        "sentencesSpa": ["Mi amigo", "Mi amigo se ha roto el tobillo", "Mi amigo se ha roto el tobillo así que", "Mi amigo se ha roto el tobillo así que no puede", "Mi amigo se ha roto el tobillo así que no puede jugar al fútbol."],
+        "sentencesEng": ["My friend", "My friend has broken his ankle", "My friend has broken his ankle so", "My friend has broken his ankle so he can't", "My friend has broken his ankle so he can't play soccer."]
+    },
+    {
+        "sentencesSpa": ["Antes de reciclar,", "Antes de reciclar, tienes que", "Antes de reciclar, tienes que separar la basura."],
+        "sentencesEng": ["Before recycling,", "Before recycling, you have to", "Before recycling, you have to separate the rubbish."]
+    },
+    {
+        "sentencesSpa": ["Estaba hablando", "Estaba hablando con él", "Estaba hablando con él cuando chocó", "Estaba hablando con él cuando chocó con un camión", "Estaba hablando con él cuando chocó con un camión en la calle."],
+        "sentencesEng": ["I was talking", "I was talking with him", "I was talking with him when he crashed", "I was talking with him when he crashed into a truck", "I was talking with him when he crashed into a truck on the street."]
+    },
+    {
+        "sentencesSpa": ["En la reunión", "En la reunión hablaremos", "En la reunión hablaremos sobre los problemas", "En la reunión hablaremos sobre los problemas que tenemos", "En la reunión hablaremos sobre los problemas que tenemos en la organización."],
+        "sentencesEng": ["In the meeting", "In the meeting we will talk", "In the meeting we will talk about the problems", "In the meeting we will talk about the problems that we have", "In the meeting we will talk about the problems that we have in the organization."]
+    },
+    {
+        "sentencesSpa": ["Mi hermana", "Mi hermana está harta", "Mi hermana está harta porque", "Mi hermana está harta porque tiene que", "Mi hermana está harta porque tiene que ayudar a Pablo", "Mi hermana está harta porque tiene que ayudar a Pablo con la compra."],
+        "sentencesEng": ["My sister", "My sister is fed up", "My sister is fed up because", "My sister is fed up because she has to", "My sister is fed up because she has to help Pablo", "My sister is fed up because she has to help Pablo with the shopping."]
+    },
+    {
+        "sentencesSpa": ["Este año,", "Este año, mi hermana", "Este año, mi hermana jugará al baloncesto", "Este año, mi hermana jugará al baloncesto en vez de al tenis."],
+        "sentencesEng": ["This year,", "This year, my sister", "This year, my sister will play basketball", "This year, my sister will play basketball instead of tennis."]
+    },
+    {
+        "sentencesSpa": ["Me duele el estómago", "Me duele el estómago porque", "Me duele el estómago porque he comido", "Me duele el estómago porque he comido demasiado helado."],
+        "sentencesEng": ["My stomach hurts", "My stomach hurts because", "My stomach hurts because I've eaten", "My stomach hurts because I've eaten too much ice cream."]
+    },
+    {
+        "sentencesSpa": ["Cuando", "Cuando vivía en Nicaragua,", "Cuando vivía en Nicaragua, siempre apagaba", "Cuando vivía en Nicaragua, siempre apagaba las luces", "Cuando vivía en Nicaragua, siempre apagaba las luces para ahorrar energía."],
+        "sentencesEng": ["When", "When I lived in Nicaragua,", "When I lived in Nicaragua, I always turned off", "When I lived in Nicaragua, I always turned off the lights", "When I lived in Nicaragua, I always turned off the lights to save energy."]
+    }
+]
