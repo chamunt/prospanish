@@ -1,3 +1,4 @@
+salir = to go out
 Qué	=	What
 comprar	=	to buy
 una invitación	=	an invitation
