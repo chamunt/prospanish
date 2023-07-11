@@ -1,0 +1,8 @@
+Qué	=	What
+comprar	=	to buy
+una invitación	=	an invitation
+comerlo	=	to eat it
+hacer	=	to do
+ver	=	to see
+hoy	=	today
+mañana = tomorrow
