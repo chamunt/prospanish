@@ -16,7 +16,7 @@
         "sentencesEng": ["It is not", "It is not a dog,", "It is not a dog, it is", "It is not a dog, it is an elephant."]
     },
     {
-        "sentencesSpa": ["No tengo", "No tengo un perro.", "Es", "Es un problema", "Es un problema para mí."],
-        "sentencesEng": ["I don't have", "I don't have a dog.", "It is", "It is a problem", "It is a problem for me."]
+        "sentencesSpa": ["No tengo", "No tengo un perro.", "No tengo un perro. Es", "No tengo un perro. Es un problema", "No tengo un perro. Es un problema para mí."],
+        "sentencesEng": ["I don't have", "I don't have a dog.", "I don't have a dog. It is", "I don't have a dog. It is a problem", "I don't have a dog. It is a problem for me."]
     }
 ]
