@@ -1,0 +1,22 @@
+[
+    {
+        "sentencesSpa": ["Es", "Es importante", "Es importante para mí."],
+        "sentencesEng": ["It is", "It is important", "It is important for me."]
+    },
+    {
+        "sentencesSpa": ["Tengo", "Tengo chocolate", "Tengo chocolate para ti."],
+        "sentencesEng": ["I have", "I have chocolate", "I have chocolate for you."]
+    },
+    {
+        "sentencesSpa": ["No es", "No es para mí,", "No es para mí, es", "No es para mí, es para ti."],
+        "sentencesEng": ["It is not", "It is not for me,", "It is not for me, it is", "It is not for me, it is for you."]
+    },
+    {
+        "sentencesSpa": ["No es", "No es un perro,", "No es un perro, es", "No es un perro, es un elefante."],
+        "sentencesEng": ["It is not", "It is not a dog,", "It is not a dog, it is", "It is not a dog, it is an elephant."]
+    },
+    {
+        "sentencesSpa": ["No tengo", "No tengo un perro.", "Es", "Es un problema", "Es un problema para mí."],
+        "sentencesEng": ["I don't have", "I don't have a dog.", "It is", "It is a problem", "It is a problem for me."]
+    }
+]
