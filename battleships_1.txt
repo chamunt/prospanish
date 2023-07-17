@@ -1,7 +1,7 @@
-ayer (yesterday)
-la semana pasada (last week)
-el mes pasado (last month)
-el año pasado (last year)
+Ayer (Yesterday)
+La semana pasada (Last week)
+El mes pasado (Last month)
+El año pasado (Last year)
 ---
 jugué al fútbol (I played football)
 escribí una carta (I wrote a letter)
