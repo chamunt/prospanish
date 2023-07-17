@@ -1,8 +1,8 @@
-está roto = it's broken
-está frío = it's cold
-está caliente = it's hot
-está lleno = it's full
-está vacío = it's empty
-está libre = it's free
-está sucio = it's dirty
-está bien = it's okay
+está roto	=	it's broken
+está frío	=	it's cold
+está caliente	=	it's hot
+está lleno	=	it's full
+está vacío	=	it's empty
+está libre	=	it's free
+está sucio	=	it's dirty
+está bien	=	it's okay
