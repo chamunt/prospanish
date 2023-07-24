@@ -7,3 +7,14 @@ jugué al baloncesto (I played basketball)
 mandé una carta (I sent a letter)
 organicé una fiesta (I organised a party)
 me caí de la bici (I fell off my bike)
+===
+hoy (Today)
+esta semana (This week)
+este mes (This month)
+este año (This year)
+---
+corro (I run)
+nado (I swim)
+leo (I read)
+cocino (I cook)
+
