@@ -1,12 +1,13 @@
-ayer (Yesterday)
-la semana pasada (Last week)
-el mes pasado (Last month)
-el año pasado (Last year)
----
-jugué al baloncesto (I played basketball)
-mandé una carta (I sent a letter)
-organicé una fiesta (I organised a party)
-me caí de la bici (I fell off my bike)
+Es hora de
+No olvides de
+Sería una buena idea
+Te toca
+--------------------------------
+llamar a Pablo
+recoger a Ana
+pagar la cuenta
+cambiar las sábanas
+
 ===
 hoy (Today)
 esta semana (This week)
