@@ -1,0 +1,50 @@
+[
+    {
+        "sentencesSpa": [
+            "A veces",
+            "A veces ceno tarde",
+            "A veces ceno tarde si",
+            "A veces ceno tarde si no salgo."
+        ],
+        "sentencesEng": [
+            "Sometimes",
+            "Sometimes I dine late",
+            "Sometimes I dine late if",
+            "Sometimes I dine late if I don't go out."
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "A menudo",
+            "A menudo como tarde",
+            "A menudo como tarde porque",
+            "A menudo como tarde porque siempre me levanto",
+            "A menudo como tarde porque siempre me levanto tarde."
+        ],
+        "sentencesEng": [
+            "Often",
+            "Often I eat late",
+            "Often I eat late because",
+            "Often I eat late because I always wake up",
+            "Often I eat late because I always wake up late."
+        ]
+    },
+    {
+        "sentencesSpa": [
+            "Si",
+            "Si termino temprano,",
+            "Si termino temprano, salgo con amigos.",
+            "Si termino temprano, salgo con amigos. Pero",
+            "Si termino temprano, salgo con amigos. Pero casi nunca termino,",
+            "Si termino temprano, salgo con amigos. Pero casi nunca termino temprano."
+        ],
+        "sentencesEng": [
+            "If",
+            "If I finish early,",
+            "If I finish early, I go out with friends.",
+            "If I finish early, I go out with friends. But",
+            "If I finish early, I go out with friends. But I almost never finish,",
+            "If I finish early, I go out with friends. But I almost never finish early."
+        ]
+    }
+]
