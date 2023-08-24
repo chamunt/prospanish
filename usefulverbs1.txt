@@ -1,26 +1,26 @@
 [
     {
-        "sentencesSpa": ["Tengo que pedir", "Tengo que pedir algo", "Tengo que pedir algo porque", "Tengo que pedir algo porque tengo hambre."],
-        "sentencesEng": ["I have to ask", "I have to ask for something", "I have to ask for something because", "I have to ask for something because I'm hungry."]
+        "sentencesSpa": ["Tengo que", "Tengo que pedir algo", "Tengo que pedir algo porque", "Tengo que pedir algo porque tengo hambre."],
+        "sentencesEng": ["I have to", "I have to order something", "I have to order something because", "I have to order something because I'm hungry."]
     },
     {
-        "sentencesSpa": ["Quiero cambiarlo", "Quiero cambiarlo hoy", "Quiero cambiarlo hoy porque", "Quiero cambiarlo hoy porque no me queda", "Quiero cambiarlo hoy porque no me queda bien."],
-        "sentencesEng": ["I want to change it", "I want to change it today", "I want to change it today because", "I want to change it today because it doesn't fit me", "I want to change it today because it doesn't fit me well."]
+        "sentencesSpa": ["Quiero", "Quiero cambiarlo hoy", "Quiero cambiarlo hoy porque es", "Quiero cambiarlo hoy porque es demasiado grande."],
+        "sentencesEng": ["I want", "I want to change it today", "I want to change it today because it's", "I want to change it today because it's too big."]
     },
     {
-        "sentencesSpa": ["Quiero sacar", "Quiero sacar algo", "Quiero sacar algo de la nevera", "Quiero sacar algo de la nevera porque", "Quiero sacar algo de la nevera porque tengo sed."],
-        "sentencesEng": ["I want to take out", "I want to take something out", "I want to take something out of the fridge", "I want to take something out of the fridge because", "I want to take something out of the fridge because I'm thirsty."]
+        "sentencesSpa": ["Quiero", "Quiero sacar algo", "Quiero sacar algo de la nevera", "Quiero sacar algo de la nevera porque", "Quiero sacar algo de la nevera porque tengo sed."],
+        "sentencesEng": ["I want", "I want to take out something", "I want to take out something from the fridge", "I want to take out something from the fridge because", "I want to take out something from the fridge because I'm thirsty."]
     },
     {
-        "sentencesSpa": ["No lo encuentro", "No lo encuentro porque", "No lo encuentro porque lo", "No lo encuentro porque lo he perdido."],
-        "sentencesEng": ["I can't find it", "I can't find it because", "I can't find it because I've", "I can't find it because I've lost it."]
+        "sentencesSpa": ["Lo necesito", "Lo necesito ahora,", "Lo necesito ahora, pero", "Lo necesito ahora, pero lo he perdido."],
+        "sentencesEng": ["I need it", "I need it now,", "I need it now, but", "I need it now, but I've lost it."]
     },
     {
-        "sentencesSpa": ["Tengo que arreglarlo", "Tengo que arreglarlo porque", "Tengo que arreglarlo porque está", "Tengo que arreglarlo porque está roto."],
-        "sentencesEng": ["I have to fix it", "I have to fix it because", "I have to fix it because it's", "I have to fix it because it's broken."]
+        "sentencesSpa": ["Tengo que", "Tengo que arreglarlo", "Tengo que arreglarlo porque", "Tengo que arreglarlo porque está roto."],
+        "sentencesEng": ["I have to", "I have to fix it", "I have to fix it because", "I have to fix it because it's broken."]
     },
     {
-        "sentencesSpa": ["Es importante terminarlo", "Es importante terminarlo hoy", "Es importante terminarlo hoy para", "Es importante terminarlo hoy para tenerlo", "Es importante terminarlo hoy para tenerlo listo", "Es importante terminarlo hoy para tenerlo listo mañana."],
-        "sentencesEng": ["It's important to finish it", "It's important to finish it today", "It's important to finish it today to", "It's important to finish it today to have it", "It's important to finish it today to have it ready", "It's important to finish it today to have it ready tomorrow."]
+        "sentencesSpa": ["Es importante", "Es importante terminarlo hoy", "Es importante terminarlo hoy porque", "Es importante terminarlo hoy porque lo necesito", "Es importante terminarlo hoy porque lo necesito para mañana."],
+        "sentencesEng": ["It's important", "It's important to finish it today", "It's important to finish it today because", "It's important to finish it today because I need it", "It's important to finish it today because I need it for tomorrow."]
     }
 ]
