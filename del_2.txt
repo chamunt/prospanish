@@ -1,0 +1,6 @@
+{
+  "sentencesSpa": ["Pienso que Juan", "y esa chica", "van a venir", "mañana"]
+}
+{
+  "sentencesEng": ["I think Juan", "and that girl", "van a venir", "mañana"]
+}
