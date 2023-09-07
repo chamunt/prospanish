@@ -1,6 +1,6 @@
 [
   {
-    "sentencesSpa": ["Pienso que Juan", "y esa chica", "simpática", "van a venir", "mañana"],
-    "sentencesEng": ["I think that Juan", "and that nice girl", "are going to come", "tomorrow"]
+    "sentencesSpa": ["Pienso que Juan", "y esa chica", "van a venir", "mañana"],
+    "sentencesEng": ["I think that Juan", "and that girl", "are going to come", "tomorrow"]
   }
 ]
