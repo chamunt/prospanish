@@ -3,5 +3,4 @@
     "sentencesSpa": ["Pienso que Juan", "y esa chica", "simpática", "van a venir", "mañana"],
     "sentencesEng": ["I think that Juan", "and that nice girl", "are going to come", "tomorrow"]
   },
-  //... more pyramids
 ]
