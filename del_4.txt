@@ -83,9 +83,12 @@ Lesson 7
     to tell/say  [decir]
     to be    [estar]
     he/she buys  [compra]
+    he/she drinks  [bebe]
+    he/she goes out  [sale]
     he/she eats  [come]
     he/ she lives    [vive]
     he/ she is going to   [va] [a]
+    he/she speaks  [habla]
     
 Lesson 8
     at what time    [a] [qué] [hora]
@@ -102,10 +105,13 @@ Lesson 9
     I come  [vengo]
     I do/make   [hago]
     I go out    [salgo]
+    You go out  [sales]
     I put   [pongo]
+    You put  [pones]
     I’ve just done it    [acabo] [de] [hacerlo]
     to go   [ir]
     there is/are  [hay]
+    there isn't  [no] [hay]
     
 Lesson 10
     we want [queremos]
