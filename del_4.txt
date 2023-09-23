@@ -1,17 +1,14 @@
-There are 10 tickets, numbered 1-10, in a raffle. The winning ticket is drawn at random.
-Find, as a fraction in its simplest form, the probability that:
-a) the winning ticket is 6 [1/10]
-b) the winning ticket is even [1/2]
-c) the winning ticket is odd and less than 5 [1/5]
-
-The probability that Nathan goes for a walk on Monday is 0.2.
-a) What is the probability that Nathan doesn't go for a walk on Monday? [0.8]
-b) Nathan decides to go for a walk on Tuesday. He either walks to the beach, the park, or the river. The probability that he walks to the beach is 0.4 and the probability that he walks to the park is 0.1. What is the probability that he walks to the river? [0.5]
-
-There are 80 jars of jam on a market stall. 10 of the jars contain apricot jam, 25 contain strawberry jam, and the rest contain raspberry jam. The stall owner picks a jar at random. Give answer as a fraction.
-a) What is the probability that the jar contains either apricot or strawberry jam? [7/16]
-b) What is the probability that the jar doesn't contain apricot jam? [7/8]
-c) What is the probability that the jar contains blackberry jam? [0]
-
-
-
+a dog [un] [perro]
+I have [tengo]
+it’s [es]
+important [importante]
+different [diferente]
+it's not [no] [es]
+I don’t have [no] [tengo]
+for me [para] [mí]
+for you [para] [ti]
+good [bueno]
+bad [malo]
+I want [quiero]
+(Do) you have [tienes]
+but [pero]
