@@ -1,0 +1,22 @@
+[
+    {
+        "sentencesSpa": ["Los lunes", "Los lunes tengo que", "Los lunes tengo que fregar los platos", "Los lunes tengo que fregar los platos despuÃ©s de la cena familiar."],
+        "sentencesEng": ["On Mondays", "On Mondays I have to", "On Mondays I have to wash the dishes", "On Mondays I have to wash the dishes after the family dinner."]
+    },
+    {
+        "sentencesSpa": ["Suelo hacer la compra", "Suelo hacer la compra los miÃ©rcoles", "Suelo hacer la compra los miÃ©rcoles despuÃ©s del trabajo."],
+        "sentencesEng": ["I usually do the shopping", "I usually do the shopping on Wednesdays", "I usually do the shopping on Wednesdays after work."]
+    },
+    {
+        "sentencesSpa": ["Primero", "Primero tengo que barrer el suelo", "Primero tengo que barrer el suelo antes de pasar el aspirador."],
+        "sentencesEng": ["First", "First I have to sweep the floor", "First I have to sweep the floor before using the vacuum cleaner."]
+    },
+    {
+        "sentencesSpa": ["Odio planchar,", "Odio planchar, pero es necesario", "Odio planchar, pero es necesario para la ropa de trabajo."],
+        "sentencesEng": ["I hate ironing,", "I hate ironing, but it's necessary", "I hate ironing, but it's necessary for work clothes."]
+    },
+    {
+        "sentencesSpa": ["Me gusta cocinar,", "Me gusta cocinar, pero odio", "Me gusta cocinar, pero odio tener que fregar", "Me gusta cocinar, pero odio tener que fregar todos los platos sucios."],
+        "sentencesEng": ["I like to cook,", "I like to cook, but I hate", "I like to cook, but I hate having to wash", "I like to cook, but I hate having to wash all the dirty dishes."]
+    }
+]
