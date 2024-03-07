@@ -284,7 +284,6 @@
 [ER][1] (to drink - beber) I drank = bebí
 [ER][1] (to eat - comer) I ate = comí
 [ER][1] (to promise - prometer) I promised = prometí
-[ER][1] (to put - poner) I put = puse
 [ER][1] (to respond - responder) I responded = respondí
 [ER][1] (to run - correr) I ran = corrí
 [ER][1] (to sell - vender) I sold = vendí
@@ -302,7 +301,6 @@
 [ER][3] (to drink - beber) He/She/It drank = bebió
 [ER][3] (to eat - comer) He/She/It ate = comió
 [ER][3] (to promise - prometer) He/She/It promised = prometió
-[ER][3] (to put - poner) He/She/It put = puso
 [ER][3] (to respond - responder) He/She/It responded = respondió
 [ER][3] (to run - correr) He/She/It ran = corrió
 [ER][3] (to sell - vender) He/She/It sold = vendió
@@ -311,7 +309,6 @@
 [ER][4] (to drink - beber) We drank = bebimos
 [ER][4] (to eat - comer) We ate = comimos
 [ER][4] (to promise - prometer) We promised = prometimos
-[ER][4] (to put - poner) We put = pusimos
 [ER][4] (to respond - responder) We responded = respondimos
 [ER][4] (to run - correr) We ran = corrimos
 [ER][4] (to sell - vender) We sold = vendimos
@@ -320,7 +317,6 @@
 [ER][5] (to drink - beber) You all drank = bebisteis
 [ER][5] (to eat - comer) You all ate = comisteis
 [ER][5] (to promise - prometer) You all promised = prometisteis
-[ER][5] (to put - poner) You all put = pusisteis
 [ER][5] (to respond - responder) You all responded = respondisteis
 [ER][5] (to run - correr) You all ran = corristeis
 [ER][5] (to sell - vender) You all sold = vendisteis
@@ -329,7 +325,6 @@
 [ER][6] (to drink - beber) They drank = bebieron
 [ER][6] (to eat - comer) They ate = comieron
 [ER][6] (to promise - prometer) They promised = prometieron
-[ER][6] (to put - poner) They put = pusieron
 [ER][6] (to respond - responder) They responded = respondieron
 [ER][6] (to run - correr) They ran= corrieron
 [ER][6] (to sell - vender) They sold = vendieron
